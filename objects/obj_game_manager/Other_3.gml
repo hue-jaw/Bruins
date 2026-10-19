@@ -1,3 +1,2 @@
 br_music_stop();
-
-font_delete(global.font);
+if (variable_global_exists("font") && global.font >= 0) font_delete(global.font);

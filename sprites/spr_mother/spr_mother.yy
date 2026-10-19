@@ -2,9 +2,9 @@
   "$GMSprite": "",
   "%Name": "spr_mother",
   "bboxMode": 0,
-  "bbox_bottom": 14,
+  "bbox_bottom": 20,
   "bbox_left": 0,
-  "bbox_right": 11,
+  "bbox_right": 17,
   "bbox_top": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -22,7 +22,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 15,
+  "height": 21,
   "HTile": false,
   "layers": [
     {
@@ -128,8 +128,8 @@
     ],
     "visibleRange": null,
     "volume": 1,
-    "xorigin": 6,
-    "yorigin": 14
+    "xorigin": 9,
+    "yorigin": 20
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -139,5 +139,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 12
+  "width": 18
 }

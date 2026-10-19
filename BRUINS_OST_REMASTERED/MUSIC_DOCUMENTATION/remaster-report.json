@@ -1,0 +1,70 @@
+[
+ {
+  "track": "06_Forgotten_Ruins",
+  "title": "Forgotten Ruins",
+  "bpm": 88,
+  "duration_s": 180,
+  "source_notes": 1711,
+  "arranged_stem_notes": {
+   "lead": 383,
+   "counter": 15,
+   "pad": 128,
+   "guitar": 248,
+   "chip": 51,
+   "bass": 256,
+   "drums": 530
+  },
+  "peak_db": -1.01,
+  "rms_db": -16.11,
+  "files": [
+   "BRUINS_OST_REMASTERED/WAV_MASTERS/06_Forgotten_Ruins_REMASTER.wav",
+   "BRUINS_OST_REMASTERED/OGG_GAME/06_Forgotten_Ruins.ogg",
+   "BRUINS_OST_REMASTERED/MIDI_SOURCES/06_Forgotten_Ruins_ARRANGED.mid"
+  ]
+ },
+ {
+  "track": "04_Toriel_s_Memories",
+  "title": "Toriel's Memories",
+  "bpm": 76,
+  "duration_s": 220,
+  "source_notes": 1815,
+  "arranged_stem_notes": {
+   "lead": 407,
+   "counter": 15,
+   "pad": 136,
+   "guitar": 264,
+   "bass": 204,
+   "drums": 24
+  },
+  "peak_db": -1.01,
+  "rms_db": -16.17,
+  "files": [
+   "BRUINS_OST_REMASTERED/WAV_MASTERS/04_Toriel_s_Memories_REMASTER.wav",
+   "BRUINS_OST_REMASTERED/OGG_GAME/04_Toriel_s_Memories.ogg",
+   "BRUINS_OST_REMASTERED/MIDI_SOURCES/04_Toriel_s_Memories_ARRANGED.mid"
+  ]
+ },
+ {
+  "track": "08_First_Encounter",
+  "title": "First Encounter",
+  "bpm": 128,
+  "duration_s": 165,
+  "source_notes": 2303,
+  "arranged_stem_notes": {
+   "lead": 511,
+   "counter": 45,
+   "pad": 172,
+   "guitar": 936,
+   "chip": 240,
+   "bass": 688,
+   "drums": 1240
+  },
+  "peak_db": -1.01,
+  "rms_db": -18.44,
+  "files": [
+   "BRUINS_OST_REMASTERED/WAV_MASTERS/08_First_Encounter_REMASTER.wav",
+   "BRUINS_OST_REMASTERED/OGG_GAME/08_First_Encounter.ogg",
+   "BRUINS_OST_REMASTERED/MIDI_SOURCES/08_First_Encounter_ARRANGED.mid"
+  ]
+ }
+]

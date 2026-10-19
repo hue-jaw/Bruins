@@ -1,0 +1,5603 @@
+[
+ {
+  "file": "01_BRUINS_Main_Theme.mid",
+  "bpm": 96.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1855,
+  "duration_s": 178.5,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 271,
+    "pitch_min": 57,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      69,
+      66
+     ],
+     [
+      73,
+      51
+     ],
+     [
+      80,
+      40
+     ],
+     [
+      71,
+      30
+     ],
+     [
+      74,
+      29
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 140,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      66,
+      18
+     ],
+     [
+      69,
+      18
+     ],
+     [
+      73,
+      18
+     ],
+     [
+      64,
+      17
+     ],
+     [
+      68,
+      17
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 280,
+    "pitch_min": 45,
+    "pitch_max": 61,
+    "top_pitches": [
+     [
+      52,
+      66
+     ],
+     [
+      45,
+      54
+     ],
+     [
+      54,
+      54
+     ],
+     [
+      50,
+      54
+     ],
+     [
+      61,
+      18
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 24,
+    "pitch_min": 57,
+    "pitch_max": 68,
+    "top_pitches": [
+     [
+      57,
+      6
+     ],
+     [
+      68,
+      6
+     ],
+     [
+      62,
+      6
+     ],
+     [
+      61,
+      6
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 456,
+    "pitch_min": 69,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      81,
+      84
+     ],
+     [
+      80,
+      59
+     ],
+     [
+      76,
+      57
+     ],
+     [
+      78,
+      56
+     ],
+     [
+      85,
+      56
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 684,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      456
+     ],
+     [
+      36,
+      114
+     ],
+     [
+      38,
+      114
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   76,
+   80,
+   83,
+   86,
+   83,
+   80,
+   83,
+   80,
+   76,
+   80,
+   83,
+   86,
+   83,
+   80,
+   83,
+   80
+  ]
+ },
+ {
+  "file": "02_A_Different_Timeline.mid",
+  "bpm": 90.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1531,
+  "duration_s": 158.0,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 223,
+    "pitch_min": 62,
+    "pitch_max": 85,
+    "top_pitches": [
+     [
+      81,
+      44
+     ],
+     [
+      76,
+      44
+     ],
+     [
+      74,
+      41
+     ],
+     [
+      79,
+      28
+     ],
+     [
+      85,
+      21
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 116,
+    "pitch_min": 62,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      69,
+      15
+     ],
+     [
+      73,
+      15
+     ],
+     [
+      70,
+      14
+     ],
+     [
+      74,
+      14
+     ],
+     [
+      77,
+      14
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 232,
+    "pitch_min": 50,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      57,
+      58
+     ],
+     [
+      50,
+      48
+     ],
+     [
+      55,
+      42
+     ],
+     [
+      58,
+      42
+     ],
+     [
+      62,
+      14
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 20,
+    "pitch_min": 62,
+    "pitch_max": 73,
+    "top_pitches": [
+     [
+      62,
+      5
+     ],
+     [
+      69,
+      5
+     ],
+     [
+      73,
+      5
+     ],
+     [
+      65,
+      5
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 376,
+    "pitch_min": 74,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      86,
+      69
+     ],
+     [
+      85,
+      48
+     ],
+     [
+      81,
+      48
+     ],
+     [
+      82,
+      47
+     ],
+     [
+      89,
+      45
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 564,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      376
+     ],
+     [
+      36,
+      94
+     ],
+     [
+      38,
+      94
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   86,
+   89,
+   93,
+   89,
+   86,
+   89,
+   86,
+   82,
+   85,
+   88,
+   91,
+   88,
+   85,
+   88,
+   85,
+   81
+  ]
+ },
+ {
+  "file": "03_The_Fallen_Child.mid",
+  "bpm": 72.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 627,
+  "duration_s": 149.3,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 171,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      69,
+      54
+     ],
+     [
+      72,
+      32
+     ],
+     [
+      76,
+      26
+     ],
+     [
+      67,
+      22
+     ],
+     [
+      74,
+      18
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 88,
+    "pitch_min": 57,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      67,
+      17
+     ],
+     [
+      64,
+      11
+     ],
+     [
+      71,
+      11
+     ],
+     [
+      74,
+      11
+     ],
+     [
+      57,
+      6
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 88,
+    "pitch_min": 45,
+    "pitch_max": 55,
+    "top_pitches": [
+     [
+      45,
+      24
+     ],
+     [
+      55,
+      24
+     ],
+     [
+      50,
+      20
+     ],
+     [
+      52,
+      20
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 280,
+    "pitch_min": 69,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      83,
+      51
+     ],
+     [
+      79,
+      43
+     ],
+     [
+      86,
+      33
+     ],
+     [
+      76,
+      33
+     ],
+     [
+      81,
+      30
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   81,
+   84,
+   81,
+   77,
+   81,
+   77,
+   74,
+   77,
+   81,
+   84,
+   81,
+   77,
+   81,
+   77,
+   74,
+   77
+  ]
+ },
+ {
+  "file": "04_Toriel_s_Memories.mid",
+  "bpm": 76.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1815,
+  "duration_s": 217.6,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 263,
+    "pitch_min": 60,
+    "pitch_max": 83,
+    "top_pitches": [
+     [
+      72,
+      59
+     ],
+     [
+      76,
+      50
+     ],
+     [
+      83,
+      37
+     ],
+     [
+      81,
+      30
+     ],
+     [
+      77,
+      25
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 136,
+    "pitch_min": 60,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      67,
+      17
+     ],
+     [
+      71,
+      17
+     ],
+     [
+      69,
+      17
+     ],
+     [
+      72,
+      17
+     ],
+     [
+      76,
+      17
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 272,
+    "pitch_min": 48,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      55,
+      66
+     ],
+     [
+      48,
+      54
+     ],
+     [
+      57,
+      54
+     ],
+     [
+      53,
+      48
+     ],
+     [
+      64,
+      18
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 24,
+    "pitch_min": 60,
+    "pitch_max": 71,
+    "top_pitches": [
+     [
+      64,
+      12
+     ],
+     [
+      60,
+      6
+     ],
+     [
+      71,
+      6
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 448,
+    "pitch_min": 72,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      84,
+      84
+     ],
+     [
+      88,
+      56
+     ],
+     [
+      81,
+      56
+     ],
+     [
+      83,
+      56
+     ],
+     [
+      79,
+      56
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 672,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      448
+     ],
+     [
+      36,
+      112
+     ],
+     [
+      38,
+      112
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   88,
+   84,
+   81,
+   84,
+   81,
+   77,
+   81,
+   84,
+   89,
+   86,
+   83,
+   86,
+   83,
+   79,
+   83,
+   86
+  ]
+ },
+ {
+  "file": "04_Toriel_s_Memories_ARRANGED.mid",
+  "bpm": 76.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "4": 10,
+   "5": 24,
+   "2": 89,
+   "3": 25,
+   "6": 33
+  },
+  "notes": 1026,
+  "duration_s": 217.9,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 261,
+    "pitch_min": 67,
+    "pitch_max": 83,
+    "top_pitches": [
+     [
+      72,
+      59
+     ],
+     [
+      76,
+      50
+     ],
+     [
+      83,
+      37
+     ],
+     [
+      81,
+      30
+     ],
+     [
+      77,
+      25
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 136,
+    "pitch_min": 60,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      67,
+      17
+     ],
+     [
+      71,
+      17
+     ],
+     [
+      69,
+      17
+     ],
+     [
+      72,
+      17
+     ],
+     [
+      76,
+      17
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 264,
+    "pitch_min": 72,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      84,
+      52
+     ],
+     [
+      81,
+      50
+     ],
+     [
+      79,
+      32
+     ],
+     [
+      83,
+      32
+     ],
+     [
+      76,
+      32
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 146,
+    "pitch_min": 71,
+    "pitch_max": 83,
+    "top_pitches": [
+     [
+      76,
+      25
+     ],
+     [
+      72,
+      25
+     ],
+     [
+      79,
+      24
+     ],
+     [
+      81,
+      23
+     ],
+     [
+      83,
+      19
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 15,
+    "pitch_min": 83,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      83,
+      6
+     ],
+     [
+      91,
+      3
+     ],
+     [
+      88,
+      3
+     ],
+     [
+      89,
+      3
+     ]
+    ]
+   },
+   "6": {
+    "instrument": "ch6",
+    "notes": 204,
+    "pitch_min": 48,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      55,
+      47
+     ],
+     [
+      48,
+      42
+     ],
+     [
+      53,
+      40
+     ],
+     [
+      57,
+      28
+     ],
+     [
+      60,
+      20
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   83,
+   83,
+   83,
+   91,
+   91,
+   91,
+   88,
+   88,
+   88,
+   89,
+   89,
+   89,
+   83,
+   83,
+   83
+  ]
+ },
+ {
+  "file": "05_A_Warm_Home.mid",
+  "bpm": 84.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1531,
+  "duration_s": 168.9,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 223,
+    "pitch_min": 65,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      77,
+      53
+     ],
+     [
+      81,
+      50
+     ],
+     [
+      82,
+      42
+     ],
+     [
+      79,
+      34
+     ],
+     [
+      84,
+      18
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 116,
+    "pitch_min": 65,
+    "pitch_max": 84,
+    "top_pitches": [
+     [
+      72,
+      15
+     ],
+     [
+      76,
+      15
+     ],
+     [
+      74,
+      14
+     ],
+     [
+      77,
+      14
+     ],
+     [
+      81,
+      14
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 232,
+    "pitch_min": 53,
+    "pitch_max": 69,
+    "top_pitches": [
+     [
+      60,
+      58
+     ],
+     [
+      53,
+      48
+     ],
+     [
+      58,
+      42
+     ],
+     [
+      62,
+      42
+     ],
+     [
+      65,
+      14
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 20,
+    "pitch_min": 65,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      65,
+      5
+     ],
+     [
+      76,
+      5
+     ],
+     [
+      70,
+      5
+     ],
+     [
+      69,
+      5
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 376,
+    "pitch_min": 77,
+    "pitch_max": 96,
+    "top_pitches": [
+     [
+      89,
+      69
+     ],
+     [
+      88,
+      48
+     ],
+     [
+      84,
+      48
+     ],
+     [
+      86,
+      47
+     ],
+     [
+      93,
+      45
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 564,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      376
+     ],
+     [
+      36,
+      94
+     ],
+     [
+      38,
+      94
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   93,
+   89,
+   93,
+   89,
+   86,
+   89,
+   93,
+   96,
+   91,
+   88,
+   91,
+   88,
+   84,
+   88,
+   91,
+   94
+  ]
+ },
+ {
+  "file": "06_Forgotten_Ruins.mid",
+  "bpm": 88.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1711,
+  "duration_s": 177.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 247,
+    "pitch_min": 57,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      69,
+      55
+     ],
+     [
+      74,
+      55
+     ],
+     [
+      72,
+      41
+     ],
+     [
+      76,
+      25
+     ],
+     [
+      71,
+      24
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 128,
+    "pitch_min": 57,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      68,
+      24
+     ],
+     [
+      64,
+      16
+     ],
+     [
+      71,
+      16
+     ],
+     [
+      74,
+      16
+     ],
+     [
+      57,
+      8
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 256,
+    "pitch_min": 45,
+    "pitch_max": 63,
+    "top_pitches": [
+     [
+      52,
+      64
+     ],
+     [
+      45,
+      48
+     ],
+     [
+      56,
+      48
+     ],
+     [
+      50,
+      48
+     ],
+     [
+      63,
+      16
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 20,
+    "pitch_min": 57,
+    "pitch_max": 62,
+    "top_pitches": [
+     [
+      62,
+      10
+     ],
+     [
+      57,
+      5
+     ],
+     [
+      60,
+      5
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 424,
+    "pitch_min": 69,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      83,
+      78
+     ],
+     [
+      80,
+      68
+     ],
+     [
+      76,
+      56
+     ],
+     [
+      86,
+      50
+     ],
+     [
+      72,
+      42
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 636,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      424
+     ],
+     [
+      36,
+      106
+     ],
+     [
+      38,
+      106
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   77,
+   81,
+   77,
+   74,
+   77,
+   81,
+   84,
+   81,
+   80,
+   83,
+   80,
+   76,
+   80,
+   83,
+   86,
+   83
+  ]
+ },
+ {
+  "file": "06_Forgotten_Ruins_ARRANGED.mid",
+  "bpm": 88.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "4": 10,
+   "5": 24,
+   "2": 89,
+   "3": 25,
+   "1": 80,
+   "6": 33
+  },
+  "notes": 1081,
+  "duration_s": 178.1,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 245,
+    "pitch_min": 64,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      69,
+      55
+     ],
+     [
+      74,
+      55
+     ],
+     [
+      72,
+      41
+     ],
+     [
+      76,
+      25
+     ],
+     [
+      71,
+      24
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 51,
+    "pitch_min": 81,
+    "pitch_max": 98,
+    "top_pitches": [
+     [
+      88,
+      9
+     ],
+     [
+      92,
+      9
+     ],
+     [
+      95,
+      9
+     ],
+     [
+      81,
+      4
+     ],
+     [
+      84,
+      4
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 128,
+    "pitch_min": 57,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      68,
+      24
+     ],
+     [
+      64,
+      16
+     ],
+     [
+      71,
+      16
+     ],
+     [
+      74,
+      16
+     ],
+     [
+      57,
+      8
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 248,
+    "pitch_min": 69,
+    "pitch_max": 86,
+    "top_pitches": [
+     [
+      80,
+      48
+     ],
+     [
+      83,
+      48
+     ],
+     [
+      77,
+      32
+     ],
+     [
+      76,
+      30
+     ],
+     [
+      72,
+      28
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 138,
+    "pitch_min": 68,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      74,
+      29
+     ],
+     [
+      69,
+      23
+     ],
+     [
+      72,
+      19
+     ],
+     [
+      71,
+      18
+     ],
+     [
+      76,
+      17
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 15,
+    "pitch_min": 80,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      84,
+      6
+     ],
+     [
+      80,
+      3
+     ],
+     [
+      89,
+      3
+     ],
+     [
+      86,
+      3
+     ]
+    ]
+   },
+   "6": {
+    "instrument": "ch6",
+    "notes": 256,
+    "pitch_min": 45,
+    "pitch_max": 68,
+    "top_pitches": [
+     [
+      52,
+      44
+     ],
+     [
+      50,
+      42
+     ],
+     [
+      57,
+      41
+     ],
+     [
+      45,
+      40
+     ],
+     [
+      56,
+      22
+     ]
+    ]
+   }
+  },
+  "lead_channel": 1,
+  "lead_opening_pitches": [
+   88,
+   92,
+   95,
+   81,
+   84,
+   88,
+   92,
+   95,
+   98,
+   86,
+   89,
+   93,
+   88,
+   92,
+   95,
+   81
+  ]
+ },
+ {
+  "file": "07_Something_Is_Watching.mid",
+  "bpm": 80.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 645,
+  "duration_s": 138.5,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 167,
+    "pitch_min": 58,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      70,
+      45
+     ],
+     [
+      68,
+      37
+     ],
+     [
+      75,
+      34
+     ],
+     [
+      71,
+      26
+     ],
+     [
+      77,
+      12
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 92,
+    "pitch_min": 58,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      66,
+      12
+     ],
+     [
+      70,
+      12
+     ],
+     [
+      73,
+      12
+     ],
+     [
+      65,
+      11
+     ],
+     [
+      68,
+      11
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 90,
+    "pitch_min": 46,
+    "pitch_max": 54,
+    "top_pitches": [
+     [
+      46,
+      24
+     ],
+     [
+      54,
+      24
+     ],
+     [
+      51,
+      22
+     ],
+     [
+      53,
+      20
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 296,
+    "pitch_min": 70,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      82,
+      54
+     ],
+     [
+      80,
+      39
+     ],
+     [
+      78,
+      38
+     ],
+     [
+      77,
+      37
+     ],
+     [
+      85,
+      34
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   82,
+   78,
+   75,
+   78,
+   82,
+   85,
+   82,
+   78,
+   82,
+   78,
+   75,
+   78,
+   82,
+   85,
+   82,
+   78
+  ]
+ },
+ {
+  "file": "08_First_Encounter.mid",
+  "bpm": 128.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2303,
+  "duration_s": 164.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 57,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      57,
+      1
+     ],
+     [
+      60,
+      1
+     ],
+     [
+      64,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 328,
+    "pitch_min": 67,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      69,
+      71
+     ],
+     [
+      76,
+      57
+     ],
+     [
+      74,
+      31
+     ],
+     [
+      72,
+      31
+     ],
+     [
+      79,
+      24
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 172,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      65,
+      22
+     ],
+     [
+      69,
+      22
+     ],
+     [
+      72,
+      22
+     ],
+     [
+      64,
+      21
+     ],
+     [
+      67,
+      21
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 344,
+    "pitch_min": 45,
+    "pitch_max": 60,
+    "top_pitches": [
+     [
+      52,
+      82
+     ],
+     [
+      45,
+      66
+     ],
+     [
+      50,
+      66
+     ],
+     [
+      53,
+      66
+     ],
+     [
+      57,
+      22
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 32,
+    "pitch_min": 69,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      69,
+      8
+     ],
+     [
+      76,
+      8
+     ],
+     [
+      79,
+      8
+     ],
+     [
+      74,
+      8
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 560,
+    "pitch_min": 69,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      81,
+      105
+     ],
+     [
+      76,
+      71
+     ],
+     [
+      77,
+      71
+     ],
+     [
+      79,
+      69
+     ],
+     [
+      84,
+      69
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 864,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      560
+     ],
+     [
+      38,
+      164
+     ],
+     [
+      36,
+      140
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   79,
+   76,
+   79,
+   83,
+   86,
+   83,
+   79,
+   83,
+   72,
+   69,
+   72,
+   76,
+   79,
+   76,
+   72,
+   76
+  ]
+ },
+ {
+  "file": "08_First_Encounter_ARRANGED.mid",
+  "bpm": 128.0,
+  "ppq": 480,
+  "programs": {
+   "0": 27,
+   "4": 10,
+   "5": 24,
+   "2": 89,
+   "3": 29,
+   "1": 80,
+   "6": 33
+  },
+  "notes": 2592,
+  "duration_s": 165.1,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 329,
+    "pitch_min": 64,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      69,
+      71
+     ],
+     [
+      76,
+      57
+     ],
+     [
+      74,
+      31
+     ],
+     [
+      72,
+      31
+     ],
+     [
+      79,
+      24
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 240,
+    "pitch_min": 81,
+    "pitch_max": 100,
+    "top_pitches": [
+     [
+      88,
+      32
+     ],
+     [
+      91,
+      32
+     ],
+     [
+      89,
+      28
+     ],
+     [
+      93,
+      28
+     ],
+     [
+      96,
+      28
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 172,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      65,
+      22
+     ],
+     [
+      69,
+      22
+     ],
+     [
+      72,
+      22
+     ],
+     [
+      64,
+      21
+     ],
+     [
+      67,
+      21
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 936,
+    "pitch_min": 45,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      57,
+      160
+     ],
+     [
+      52,
+      152
+     ],
+     [
+      45,
+      80
+     ],
+     [
+      50,
+      80
+     ],
+     [
+      62,
+      80
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 182,
+    "pitch_min": 67,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      69,
+      23
+     ],
+     [
+      76,
+      23
+     ],
+     [
+      74,
+      22
+     ],
+     [
+      72,
+      16
+     ],
+     [
+      81,
+      16
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 45,
+    "pitch_min": 79,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      86,
+      12
+     ],
+     [
+      79,
+      12
+     ],
+     [
+      84,
+      12
+     ],
+     [
+      88,
+      9
+     ]
+    ]
+   },
+   "6": {
+    "instrument": "ch6",
+    "notes": 688,
+    "pitch_min": 45,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      52,
+      102
+     ],
+     [
+      45,
+      88
+     ],
+     [
+      50,
+      88
+     ],
+     [
+      53,
+      88
+     ],
+     [
+      57,
+      66
+     ]
+    ]
+   }
+  },
+  "lead_channel": 1,
+  "lead_opening_pitches": [
+   88,
+   91,
+   95,
+   98,
+   88,
+   91,
+   95,
+   98,
+   88,
+   91,
+   95,
+   98,
+   88,
+   91,
+   95,
+   98
+  ]
+ },
+ {
+  "file": "09_Echoing_Forest.mid",
+  "bpm": 104.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2251,
+  "duration_s": 199.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 62,
+    "pitch_max": 69,
+    "top_pitches": [
+     [
+      62,
+      1
+     ],
+     [
+      65,
+      1
+     ],
+     [
+      69,
+      1
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 172,
+    "pitch_min": 62,
+    "pitch_max": 83,
+    "top_pitches": [
+     [
+      72,
+      32
+     ],
+     [
+      69,
+      21
+     ],
+     [
+      76,
+      21
+     ],
+     [
+      79,
+      21
+     ],
+     [
+      62,
+      11
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 340,
+    "pitch_min": 50,
+    "pitch_max": 67,
+    "top_pitches": [
+     [
+      57,
+      82
+     ],
+     [
+      50,
+      66
+     ],
+     [
+      60,
+      66
+     ],
+     [
+      55,
+      63
+     ],
+     [
+      67,
+      22
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 356,
+    "pitch_min": 62,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      77,
+      75
+     ],
+     [
+      74,
+      63
+     ],
+     [
+      81,
+      44
+     ],
+     [
+      83,
+      36
+     ],
+     [
+      79,
+      34
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 552,
+    "pitch_min": 74,
+    "pitch_max": 95,
+    "top_pitches": [
+     [
+      88,
+      105
+     ],
+     [
+      84,
+      87
+     ],
+     [
+      81,
+      71
+     ],
+     [
+      91,
+      71
+     ],
+     [
+      77,
+      54
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 828,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      552
+     ],
+     [
+      36,
+      138
+     ],
+     [
+      38,
+      138
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   81,
+   84,
+   88,
+   91,
+   88,
+   84,
+   88,
+   84,
+   74,
+   77,
+   81,
+   84,
+   81,
+   77,
+   81,
+   77
+  ]
+ },
+ {
+  "file": "10_Gentle_Monsters.mid",
+  "bpm": 108.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 1815,
+  "duration_s": 154.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 263,
+    "pitch_min": 65,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      77,
+      65
+     ],
+     [
+      81,
+      49
+     ],
+     [
+      79,
+      41
+     ],
+     [
+      84,
+      30
+     ],
+     [
+      82,
+      29
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 136,
+    "pitch_min": 65,
+    "pitch_max": 84,
+    "top_pitches": [
+     [
+      72,
+      17
+     ],
+     [
+      76,
+      17
+     ],
+     [
+      74,
+      17
+     ],
+     [
+      77,
+      17
+     ],
+     [
+      81,
+      17
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 272,
+    "pitch_min": 53,
+    "pitch_max": 69,
+    "top_pitches": [
+     [
+      60,
+      66
+     ],
+     [
+      53,
+      54
+     ],
+     [
+      62,
+      54
+     ],
+     [
+      58,
+      48
+     ],
+     [
+      69,
+      18
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 24,
+    "pitch_min": 65,
+    "pitch_max": 70,
+    "top_pitches": [
+     [
+      65,
+      6
+     ],
+     [
+      67,
+      6
+     ],
+     [
+      70,
+      6
+     ],
+     [
+      69,
+      6
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 448,
+    "pitch_min": 77,
+    "pitch_max": 96,
+    "top_pitches": [
+     [
+      89,
+      84
+     ],
+     [
+      86,
+      56
+     ],
+     [
+      93,
+      56
+     ],
+     [
+      88,
+      56
+     ],
+     [
+      84,
+      56
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 672,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      448
+     ],
+     [
+      36,
+      112
+     ],
+     [
+      38,
+      112
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   86,
+   89,
+   93,
+   89,
+   86,
+   89,
+   86,
+   82,
+   88,
+   91,
+   94,
+   91,
+   88,
+   91,
+   88,
+   84
+  ]
+ },
+ {
+  "file": "11_The_Guardian.mid",
+  "bpm": 120.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2991,
+  "duration_s": 224.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 55,
+    "pitch_max": 62,
+    "top_pitches": [
+     [
+      55,
+      1
+     ],
+     [
+      58,
+      1
+     ],
+     [
+      62,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 428,
+    "pitch_min": 66,
+    "pitch_max": 90,
+    "top_pitches": [
+     [
+      67,
+      90
+     ],
+     [
+      72,
+      58
+     ],
+     [
+      78,
+      47
+     ],
+     [
+      74,
+      44
+     ],
+     [
+      79,
+      37
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 224,
+    "pitch_min": 55,
+    "pitch_max": 74,
+    "top_pitches": [
+     [
+      62,
+      28
+     ],
+     [
+      66,
+      28
+     ],
+     [
+      63,
+      28
+     ],
+     [
+      67,
+      28
+     ],
+     [
+      70,
+      28
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 444,
+    "pitch_min": 43,
+    "pitch_max": 58,
+    "top_pitches": [
+     [
+      50,
+      109
+     ],
+     [
+      43,
+      84
+     ],
+     [
+      48,
+      84
+     ],
+     [
+      51,
+      84
+     ],
+     [
+      55,
+      28
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 36,
+    "pitch_min": 67,
+    "pitch_max": 78,
+    "top_pitches": [
+     [
+      67,
+      9
+     ],
+     [
+      78,
+      9
+     ],
+     [
+      72,
+      9
+     ],
+     [
+      69,
+      9
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 728,
+    "pitch_min": 67,
+    "pitch_max": 86,
+    "top_pitches": [
+     [
+      79,
+      138
+     ],
+     [
+      75,
+      94
+     ],
+     [
+      74,
+      91
+     ],
+     [
+      82,
+      90
+     ],
+     [
+      78,
+      89
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1128,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      728
+     ],
+     [
+      38,
+      218
+     ],
+     [
+      36,
+      182
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   74,
+   78,
+   74,
+   70,
+   74,
+   70,
+   67,
+   70,
+   79,
+   82,
+   79,
+   75,
+   79,
+   75,
+   72,
+   75
+  ]
+ },
+ {
+  "file": "12_Hollow_City.mid",
+  "bpm": 102.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2335,
+  "duration_s": 208.4,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 339,
+    "pitch_min": 60,
+    "pitch_max": 84,
+    "top_pitches": [
+     [
+      75,
+      81
+     ],
+     [
+      72,
+      52
+     ],
+     [
+      77,
+      49
+     ],
+     [
+      74,
+      47
+     ],
+     [
+      79,
+      40
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 176,
+    "pitch_min": 60,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      70,
+      33
+     ],
+     [
+      67,
+      22
+     ],
+     [
+      74,
+      22
+     ],
+     [
+      77,
+      22
+     ],
+     [
+      60,
+      11
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 348,
+    "pitch_min": 48,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      55,
+      85
+     ],
+     [
+      48,
+      66
+     ],
+     [
+      58,
+      66
+     ],
+     [
+      53,
+      66
+     ],
+     [
+      65,
+      22
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 32,
+    "pitch_min": 63,
+    "pitch_max": 67,
+    "top_pitches": [
+     [
+      63,
+      16
+     ],
+     [
+      65,
+      8
+     ],
+     [
+      67,
+      8
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 576,
+    "pitch_min": 72,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      86,
+      108
+     ],
+     [
+      82,
+      90
+     ],
+     [
+      89,
+      72
+     ],
+     [
+      79,
+      72
+     ],
+     [
+      75,
+      54
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 864,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      576
+     ],
+     [
+      36,
+      144
+     ],
+     [
+      38,
+      144
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   89,
+   86,
+   82,
+   86,
+   82,
+   79,
+   82,
+   86,
+   82,
+   79,
+   75,
+   79,
+   75,
+   72,
+   75,
+   79
+  ]
+ },
+ {
+  "file": "13_Nobody_Remembers.mid",
+  "bpm": 68.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 747,
+  "duration_s": 186.0,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 203,
+    "pitch_min": 57,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      69,
+      44
+     ],
+     [
+      71,
+      40
+     ],
+     [
+      72,
+      30
+     ],
+     [
+      76,
+      26
+     ],
+     [
+      74,
+      24
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 104,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      64,
+      13
+     ],
+     [
+      67,
+      13
+     ],
+     [
+      65,
+      13
+     ],
+     [
+      69,
+      13
+     ],
+     [
+      72,
+      13
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 104,
+    "pitch_min": 45,
+    "pitch_max": 53,
+    "top_pitches": [
+     [
+      45,
+      28
+     ],
+     [
+      53,
+      28
+     ],
+     [
+      50,
+      24
+     ],
+     [
+      52,
+      24
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 336,
+    "pitch_min": 69,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      81,
+      66
+     ],
+     [
+      77,
+      46
+     ],
+     [
+      84,
+      42
+     ],
+     [
+      79,
+      40
+     ],
+     [
+      76,
+      40
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   81,
+   77,
+   81,
+   77,
+   74,
+   77,
+   81,
+   84,
+   81,
+   77,
+   81,
+   77,
+   74,
+   77,
+   81,
+   84
+  ]
+ },
+ {
+  "file": "14_The_Clockmaker.mid",
+  "bpm": 140.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 4019,
+  "duration_s": 259.7,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 62,
+    "pitch_max": 69,
+    "top_pitches": [
+     [
+      62,
+      1
+     ],
+     [
+      65,
+      1
+     ],
+     [
+      69,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 576,
+    "pitch_min": 73,
+    "pitch_max": 97,
+    "top_pitches": [
+     [
+      74,
+      96
+     ],
+     [
+      76,
+      80
+     ],
+     [
+      77,
+      70
+     ],
+     [
+      82,
+      68
+     ],
+     [
+      80,
+      63
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 300,
+    "pitch_min": 62,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      70,
+      38
+     ],
+     [
+      74,
+      38
+     ],
+     [
+      77,
+      38
+     ],
+     [
+      69,
+      37
+     ],
+     [
+      73,
+      37
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 596,
+    "pitch_min": 50,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      57,
+      146
+     ],
+     [
+      50,
+      114
+     ],
+     [
+      56,
+      114
+     ],
+     [
+      58,
+      111
+     ],
+     [
+      63,
+      38
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 1024,
+    "pitch_min": 74,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      86,
+      186
+     ],
+     [
+      89,
+      126
+     ],
+     [
+      82,
+      122
+     ],
+     [
+      85,
+      120
+     ],
+     [
+      81,
+      120
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1520,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      976
+     ],
+     [
+      38,
+      300
+     ],
+     [
+      36,
+      244
+     ]
+    ]
+   }
+  },
+  "lead_channel": 4,
+  "lead_opening_pitches": [
+   86,
+   89,
+   86,
+   82,
+   86,
+   89,
+   93,
+   89,
+   86,
+   89,
+   86,
+   82,
+   86,
+   89,
+   93,
+   89
+  ]
+ },
+ {
+  "file": "15_Fractured_Time.mid",
+  "bpm": 112.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2399,
+  "duration_s": 194.6,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 58,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      58,
+      1
+     ],
+     [
+      61,
+      1
+     ],
+     [
+      65,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 344,
+    "pitch_min": 66,
+    "pitch_max": 90,
+    "top_pitches": [
+     [
+      70,
+      66
+     ],
+     [
+      77,
+      48
+     ],
+     [
+      78,
+      38
+     ],
+     [
+      69,
+      37
+     ],
+     [
+      76,
+      34
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 180,
+    "pitch_min": 58,
+    "pitch_max": 78,
+    "top_pitches": [
+     [
+      69,
+      34
+     ],
+     [
+      65,
+      23
+     ],
+     [
+      72,
+      22
+     ],
+     [
+      76,
+      22
+     ],
+     [
+      58,
+      12
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 356,
+    "pitch_min": 46,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      53,
+      89
+     ],
+     [
+      46,
+      69
+     ],
+     [
+      57,
+      66
+     ],
+     [
+      52,
+      66
+     ],
+     [
+      64,
+      22
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 612,
+    "pitch_min": 70,
+    "pitch_max": 90,
+    "top_pitches": [
+     [
+      84,
+      111
+     ],
+     [
+      81,
+      93
+     ],
+     [
+      77,
+      80
+     ],
+     [
+      88,
+      73
+     ],
+     [
+      78,
+      61
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 904,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      584
+     ],
+     [
+      38,
+      174
+     ],
+     [
+      36,
+      146
+     ]
+    ]
+   }
+  },
+  "lead_channel": 4,
+  "lead_opening_pitches": [
+   84,
+   81,
+   77,
+   81,
+   84,
+   88,
+   84,
+   81,
+   77,
+   73,
+   70,
+   73,
+   77,
+   81,
+   77,
+   73
+  ]
+ },
+ {
+  "file": "16_Soul_Archive.mid",
+  "bpm": 92.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2211,
+  "duration_s": 219.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 323,
+    "pitch_min": 64,
+    "pitch_max": 90,
+    "top_pitches": [
+     [
+      79,
+      70
+     ],
+     [
+      76,
+      59
+     ],
+     [
+      78,
+      46
+     ],
+     [
+      84,
+      38
+     ],
+     [
+      83,
+      33
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 168,
+    "pitch_min": 64,
+    "pitch_max": 83,
+    "top_pitches": [
+     [
+      71,
+      21
+     ],
+     [
+      75,
+      21
+     ],
+     [
+      72,
+      21
+     ],
+     [
+      76,
+      21
+     ],
+     [
+      79,
+      21
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 332,
+    "pitch_min": 52,
+    "pitch_max": 67,
+    "top_pitches": [
+     [
+      59,
+      82
+     ],
+     [
+      52,
+      66
+     ],
+     [
+      60,
+      63
+     ],
+     [
+      57,
+      60
+     ],
+     [
+      67,
+      21
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 28,
+    "pitch_min": 64,
+    "pitch_max": 72,
+    "top_pitches": [
+     [
+      64,
+      7
+     ],
+     [
+      67,
+      7
+     ],
+     [
+      72,
+      7
+     ],
+     [
+      69,
+      7
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 544,
+    "pitch_min": 76,
+    "pitch_max": 95,
+    "top_pitches": [
+     [
+      88,
+      99
+     ],
+     [
+      83,
+      71
+     ],
+     [
+      87,
+      69
+     ],
+     [
+      91,
+      67
+     ],
+     [
+      84,
+      65
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 816,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      544
+     ],
+     [
+      36,
+      136
+     ],
+     [
+      38,
+      136
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   87,
+   83,
+   87,
+   90,
+   93,
+   90,
+   87,
+   90,
+   79,
+   76,
+   79,
+   83,
+   87,
+   83,
+   79,
+   83
+  ]
+ },
+ {
+  "file": "17_Colors_of_the_Soul.mid",
+  "bpm": 110.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2459,
+  "duration_s": 204.5,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 355,
+    "pitch_min": 60,
+    "pitch_max": 86,
+    "top_pitches": [
+     [
+      72,
+      72
+     ],
+     [
+      79,
+      70
+     ],
+     [
+      76,
+      54
+     ],
+     [
+      77,
+      54
+     ],
+     [
+      74,
+      30
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 184,
+    "pitch_min": 60,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      67,
+      23
+     ],
+     [
+      71,
+      23
+     ],
+     [
+      69,
+      23
+     ],
+     [
+      72,
+      23
+     ],
+     [
+      76,
+      23
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 368,
+    "pitch_min": 48,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      55,
+      90
+     ],
+     [
+      48,
+      72
+     ],
+     [
+      53,
+      72
+     ],
+     [
+      57,
+      66
+     ],
+     [
+      60,
+      24
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 32,
+    "pitch_min": 60,
+    "pitch_max": 71,
+    "top_pitches": [
+     [
+      60,
+      8
+     ],
+     [
+      71,
+      8
+     ],
+     [
+      65,
+      8
+     ],
+     [
+      64,
+      8
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 608,
+    "pitch_min": 72,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      84,
+      111
+     ],
+     [
+      79,
+      79
+     ],
+     [
+      83,
+      77
+     ],
+     [
+      81,
+      75
+     ],
+     [
+      88,
+      73
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 912,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      608
+     ],
+     [
+      36,
+      152
+     ],
+     [
+      38,
+      152
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   79,
+   83,
+   86,
+   89,
+   86,
+   83,
+   86,
+   83,
+   72,
+   76,
+   79,
+   83,
+   79,
+   76,
+   79,
+   76
+  ]
+ },
+ {
+  "file": "18_Your_Other_Self.mid",
+  "bpm": 144.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 4303,
+  "duration_s": 269.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 57,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      57,
+      1
+     ],
+     [
+      60,
+      1
+     ],
+     [
+      64,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 612,
+    "pitch_min": 68,
+    "pitch_max": 92,
+    "top_pitches": [
+     [
+      69,
+      129
+     ],
+     [
+      71,
+      85
+     ],
+     [
+      72,
+      76
+     ],
+     [
+      81,
+      53
+     ],
+     [
+      77,
+      43
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 320,
+    "pitch_min": 57,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      68,
+      60
+     ],
+     [
+      64,
+      40
+     ],
+     [
+      71,
+      40
+     ],
+     [
+      74,
+      40
+     ],
+     [
+      57,
+      20
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 640,
+    "pitch_min": 45,
+    "pitch_max": 63,
+    "top_pitches": [
+     [
+      52,
+      160
+     ],
+     [
+      45,
+      120
+     ],
+     [
+      56,
+      120
+     ],
+     [
+      50,
+      120
+     ],
+     [
+      63,
+      40
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 52,
+    "pitch_min": 69,
+    "pitch_max": 74,
+    "top_pitches": [
+     [
+      69,
+      13
+     ],
+     [
+      71,
+      13
+     ],
+     [
+      72,
+      13
+     ],
+     [
+      74,
+      13
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 1048,
+    "pitch_min": 69,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      83,
+      198
+     ],
+     [
+      80,
+      166
+     ],
+     [
+      86,
+      130
+     ],
+     [
+      76,
+      130
+     ],
+     [
+      77,
+      99
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1628,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      1048
+     ],
+     [
+      38,
+      318
+     ],
+     [
+      36,
+      262
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   77,
+   81,
+   84,
+   81,
+   77,
+   81,
+   77,
+   74,
+   80,
+   83,
+   86,
+   83,
+   80,
+   83,
+   80,
+   76
+  ]
+ },
+ {
+  "file": "19_Determination.mid",
+  "bpm": 132.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 3035,
+  "duration_s": 209.6,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 62,
+    "pitch_max": 69,
+    "top_pitches": [
+     [
+      62,
+      1
+     ],
+     [
+      65,
+      1
+     ],
+     [
+      69,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 436,
+    "pitch_min": 72,
+    "pitch_max": 98,
+    "top_pitches": [
+     [
+      81,
+      75
+     ],
+     [
+      74,
+      62
+     ],
+     [
+      82,
+      44
+     ],
+     [
+      84,
+      41
+     ],
+     [
+      86,
+      39
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 228,
+    "pitch_min": 62,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      69,
+      29
+     ],
+     [
+      72,
+      29
+     ],
+     [
+      70,
+      28
+     ],
+     [
+      74,
+      28
+     ],
+     [
+      77,
+      28
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 452,
+    "pitch_min": 50,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      57,
+      113
+     ],
+     [
+      50,
+      87
+     ],
+     [
+      58,
+      84
+     ],
+     [
+      55,
+      84
+     ],
+     [
+      65,
+      28
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 40,
+    "pitch_min": 74,
+    "pitch_max": 84,
+    "top_pitches": [
+     [
+      74,
+      10
+     ],
+     [
+      81,
+      10
+     ],
+     [
+      84,
+      10
+     ],
+     [
+      82,
+      10
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 736,
+    "pitch_min": 74,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      86,
+      141
+     ],
+     [
+      89,
+      95
+     ],
+     [
+      82,
+      93
+     ],
+     [
+      81,
+      91
+     ],
+     [
+      84,
+      89
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1140,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      736
+     ],
+     [
+      38,
+      220
+     ],
+     [
+      36,
+      184
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   81,
+   84,
+   81,
+   77,
+   81,
+   77,
+   74,
+   77,
+   89,
+   93,
+   89,
+   86,
+   89,
+   86,
+   82,
+   86
+  ]
+ },
+ {
+  "file": "20_Patience.mid",
+  "bpm": 66.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 689,
+  "duration_s": 174.9,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 187,
+    "pitch_min": 65,
+    "pitch_max": 85,
+    "top_pitches": [
+     [
+      80,
+      42
+     ],
+     [
+      77,
+      40
+     ],
+     [
+      82,
+      30
+     ],
+     [
+      75,
+      24
+     ],
+     [
+      79,
+      22
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 96,
+    "pitch_min": 65,
+    "pitch_max": 84,
+    "top_pitches": [
+     [
+      72,
+      12
+     ],
+     [
+      75,
+      12
+     ],
+     [
+      73,
+      12
+     ],
+     [
+      77,
+      12
+     ],
+     [
+      80,
+      12
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 94,
+    "pitch_min": 53,
+    "pitch_max": 61,
+    "top_pitches": [
+     [
+      53,
+      24
+     ],
+     [
+      58,
+      24
+     ],
+     [
+      61,
+      24
+     ],
+     [
+      60,
+      22
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 312,
+    "pitch_min": 77,
+    "pitch_max": 96,
+    "top_pitches": [
+     [
+      89,
+      57
+     ],
+     [
+      87,
+      40
+     ],
+     [
+      84,
+      40
+     ],
+     [
+      92,
+      39
+     ],
+     [
+      85,
+      37
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   96,
+   92,
+   89,
+   92,
+   89,
+   85,
+   89,
+   92,
+   96,
+   92,
+   89,
+   92,
+   89,
+   85,
+   89,
+   92
+  ]
+ },
+ {
+  "file": "21_Bravery.mid",
+  "bpm": 152.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 3275,
+  "duration_s": 194.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 60,
+    "pitch_max": 67,
+    "top_pitches": [
+     [
+      60,
+      1
+     ],
+     [
+      63,
+      1
+     ],
+     [
+      67,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 468,
+    "pitch_min": 70,
+    "pitch_max": 94,
+    "top_pitches": [
+     [
+      72,
+      66
+     ],
+     [
+      75,
+      65
+     ],
+     [
+      84,
+      61
+     ],
+     [
+      77,
+      53
+     ],
+     [
+      79,
+      48
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 244,
+    "pitch_min": 60,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      70,
+      46
+     ],
+     [
+      67,
+      31
+     ],
+     [
+      74,
+      30
+     ],
+     [
+      77,
+      30
+     ],
+     [
+      60,
+      16
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 484,
+    "pitch_min": 48,
+    "pitch_max": 65,
+    "top_pitches": [
+     [
+      55,
+      121
+     ],
+     [
+      48,
+      93
+     ],
+     [
+      58,
+      90
+     ],
+     [
+      53,
+      90
+     ],
+     [
+      65,
+      30
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 40,
+    "pitch_min": 72,
+    "pitch_max": 82,
+    "top_pitches": [
+     [
+      72,
+      10
+     ],
+     [
+      82,
+      10
+     ],
+     [
+      77,
+      10
+     ],
+     [
+      75,
+      10
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 800,
+    "pitch_min": 72,
+    "pitch_max": 92,
+    "top_pitches": [
+     [
+      86,
+      150
+     ],
+     [
+      82,
+      122
+     ],
+     [
+      89,
+      102
+     ],
+     [
+      79,
+      96
+     ],
+     [
+      84,
+      78
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1236,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      800
+     ],
+     [
+      38,
+      236
+     ],
+     [
+      36,
+      200
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   89,
+   86,
+   89,
+   86,
+   82,
+   86,
+   89,
+   92,
+   89,
+   86,
+   89,
+   86,
+   82,
+   86,
+   89,
+   92
+  ]
+ },
+ {
+  "file": "22_Broken_Promises.mid",
+  "bpm": 74.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 943,
+  "duration_s": 216.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 239,
+    "pitch_min": 58,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      70,
+      59
+     ],
+     [
+      68,
+      44
+     ],
+     [
+      75,
+      36
+     ],
+     [
+      71,
+      35
+     ],
+     [
+      77,
+      27
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 132,
+    "pitch_min": 58,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      65,
+      17
+     ],
+     [
+      68,
+      17
+     ],
+     [
+      66,
+      16
+     ],
+     [
+      70,
+      16
+     ],
+     [
+      73,
+      16
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 132,
+    "pitch_min": 46,
+    "pitch_max": 54,
+    "top_pitches": [
+     [
+      46,
+      36
+     ],
+     [
+      54,
+      32
+     ],
+     [
+      51,
+      32
+     ],
+     [
+      53,
+      32
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 440,
+    "pitch_min": 70,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      82,
+      81
+     ],
+     [
+      80,
+      56
+     ],
+     [
+      77,
+      56
+     ],
+     [
+      85,
+      55
+     ],
+     [
+      78,
+      53
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   78,
+   82,
+   78,
+   75,
+   78,
+   82,
+   85,
+   82,
+   80,
+   83,
+   80,
+   77,
+   80,
+   83,
+   87,
+   83
+  ]
+ },
+ {
+  "file": "23_Final_Timeline.mid",
+  "bpm": 138.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 4443,
+  "duration_s": 289.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 3,
+    "pitch_min": 57,
+    "pitch_max": 64,
+    "top_pitches": [
+     [
+      57,
+      1
+     ],
+     [
+      60,
+      1
+     ],
+     [
+      64,
+      1
+     ]
+    ]
+   },
+   "1": {
+    "instrument": "square_lead(GM80)",
+    "notes": 636,
+    "pitch_min": 68,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      80,
+      97
+     ],
+     [
+      69,
+      91
+     ],
+     [
+      76,
+      73
+     ],
+     [
+      72,
+      69
+     ],
+     [
+      81,
+      59
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 332,
+    "pitch_min": 57,
+    "pitch_max": 76,
+    "top_pitches": [
+     [
+      65,
+      42
+     ],
+     [
+      69,
+      42
+     ],
+     [
+      72,
+      42
+     ],
+     [
+      64,
+      41
+     ],
+     [
+      68,
+      41
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 660,
+    "pitch_min": 45,
+    "pitch_max": 60,
+    "top_pitches": [
+     [
+      52,
+      162
+     ],
+     [
+      45,
+      126
+     ],
+     [
+      50,
+      126
+     ],
+     [
+      53,
+      123
+     ],
+     [
+      57,
+      42
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 56,
+    "pitch_min": 69,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      69,
+      14
+     ],
+     [
+      80,
+      14
+     ],
+     [
+      81,
+      14
+     ],
+     [
+      74,
+      14
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 1080,
+    "pitch_min": 69,
+    "pitch_max": 88,
+    "top_pitches": [
+     [
+      81,
+      201
+     ],
+     [
+      80,
+      136
+     ],
+     [
+      76,
+      136
+     ],
+     [
+      77,
+      135
+     ],
+     [
+      84,
+      133
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1676,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      1080
+     ],
+     [
+      38,
+      326
+     ],
+     [
+      36,
+      270
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   84,
+   81,
+   77,
+   81,
+   84,
+   88,
+   84,
+   81,
+   83,
+   80,
+   76,
+   80,
+   83,
+   86,
+   83,
+   80
+  ]
+ },
+ {
+  "file": "24_The_World_Is_Empty.mid",
+  "bpm": 60.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 869,
+  "duration_s": 248.7,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 223,
+    "pitch_min": 55,
+    "pitch_max": 74,
+    "top_pitches": [
+     [
+      67,
+      79
+     ],
+     [
+      65,
+      59
+     ],
+     [
+      63,
+      29
+     ],
+     [
+      62,
+      17
+     ],
+     [
+      70,
+      14
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 124,
+    "pitch_min": 55,
+    "pitch_max": 75,
+    "top_pitches": [
+     [
+      65,
+      23
+     ],
+     [
+      62,
+      15
+     ],
+     [
+      68,
+      15
+     ],
+     [
+      72,
+      15
+     ],
+     [
+      55,
+      8
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 122,
+    "pitch_min": 43,
+    "pitch_max": 53,
+    "top_pitches": [
+     [
+      43,
+      32
+     ],
+     [
+      53,
+      32
+     ],
+     [
+      48,
+      30
+     ],
+     [
+      50,
+      28
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 400,
+    "pitch_min": 67,
+    "pitch_max": 87,
+    "top_pitches": [
+     [
+      80,
+      75
+     ],
+     [
+      77,
+      63
+     ],
+     [
+      74,
+      49
+     ],
+     [
+      84,
+      49
+     ],
+     [
+      75,
+      39
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   75,
+   72,
+   75,
+   79,
+   82,
+   79,
+   75,
+   79,
+   77,
+   74,
+   77,
+   80,
+   84,
+   80,
+   77,
+   80
+  ]
+ },
+ {
+  "file": "25_One_Last_Goodbye.mid",
+  "bpm": 70.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 927,
+  "duration_s": 222.0,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 247,
+    "pitch_min": 60,
+    "pitch_max": 82,
+    "top_pitches": [
+     [
+      72,
+      72
+     ],
+     [
+      74,
+      42
+     ],
+     [
+      75,
+      38
+     ],
+     [
+      70,
+      31
+     ],
+     [
+      77,
+      23
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 128,
+    "pitch_min": 60,
+    "pitch_max": 79,
+    "top_pitches": [
+     [
+      67,
+      16
+     ],
+     [
+      70,
+      16
+     ],
+     [
+      68,
+      16
+     ],
+     [
+      72,
+      16
+     ],
+     [
+      75,
+      16
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 128,
+    "pitch_min": 48,
+    "pitch_max": 56,
+    "top_pitches": [
+     [
+      48,
+      32
+     ],
+     [
+      56,
+      32
+     ],
+     [
+      53,
+      32
+     ],
+     [
+      55,
+      32
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 424,
+    "pitch_min": 72,
+    "pitch_max": 91,
+    "top_pitches": [
+     [
+      84,
+      75
+     ],
+     [
+      79,
+      56
+     ],
+     [
+      82,
+      56
+     ],
+     [
+      80,
+      51
+     ],
+     [
+      87,
+      49
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   77,
+   80,
+   84,
+   87,
+   84,
+   80,
+   84,
+   80,
+   79,
+   82,
+   86,
+   89,
+   86,
+   82,
+   86,
+   82
+  ]
+ },
+ {
+  "file": "26_The_True_Ending.mid",
+  "bpm": 100.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2955,
+  "duration_s": 269.8,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 431,
+    "pitch_min": 62,
+    "pitch_max": 90,
+    "top_pitches": [
+     [
+      85,
+      74
+     ],
+     [
+      74,
+      71
+     ],
+     [
+      81,
+      67
+     ],
+     [
+      79,
+      57
+     ],
+     [
+      78,
+      57
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 224,
+    "pitch_min": 62,
+    "pitch_max": 81,
+    "top_pitches": [
+     [
+      69,
+      28
+     ],
+     [
+      73,
+      28
+     ],
+     [
+      71,
+      28
+     ],
+     [
+      74,
+      28
+     ],
+     [
+      78,
+      28
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 444,
+    "pitch_min": 50,
+    "pitch_max": 66,
+    "top_pitches": [
+     [
+      57,
+      109
+     ],
+     [
+      50,
+      84
+     ],
+     [
+      55,
+      84
+     ],
+     [
+      59,
+      84
+     ],
+     [
+      62,
+      28
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 36,
+    "pitch_min": 62,
+    "pitch_max": 74,
+    "top_pitches": [
+     [
+      62,
+      9
+     ],
+     [
+      73,
+      9
+     ],
+     [
+      67,
+      9
+     ],
+     [
+      74,
+      9
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 728,
+    "pitch_min": 74,
+    "pitch_max": 93,
+    "top_pitches": [
+     [
+      86,
+      138
+     ],
+     [
+      83,
+      94
+     ],
+     [
+      81,
+      91
+     ],
+     [
+      90,
+      90
+     ],
+     [
+      85,
+      89
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 1092,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      728
+     ],
+     [
+      36,
+      182
+     ],
+     [
+      38,
+      182
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   78,
+   81,
+   85,
+   81,
+   78,
+   81,
+   78,
+   74,
+   83,
+   86,
+   90,
+   86,
+   83,
+   86,
+   83,
+   79
+  ]
+ },
+ {
+  "file": "27_Beyond_the_Reset.mid",
+  "bpm": 94.0,
+  "ppq": 480,
+  "programs": {
+   "0": 0,
+   "1": 80,
+   "2": 89,
+   "3": 38,
+   "4": 10,
+   "5": 24
+  },
+  "notes": 2459,
+  "duration_s": 238.3,
+  "channels": {
+   "0": {
+    "instrument": "piano",
+    "notes": 355,
+    "pitch_min": 57,
+    "pitch_max": 80,
+    "top_pitches": [
+     [
+      69,
+      80
+     ],
+     [
+      74,
+      54
+     ],
+     [
+      72,
+      46
+     ],
+     [
+      76,
+      42
+     ],
+     [
+      68,
+      42
+     ]
+    ]
+   },
+   "2": {
+    "instrument": "pad(GM89)",
+    "notes": 184,
+    "pitch_min": 57,
+    "pitch_max": 77,
+    "top_pitches": [
+     [
+      68,
+      35
+     ],
+     [
+      64,
+      23
+     ],
+     [
+      71,
+      23
+     ],
+     [
+      74,
+      23
+     ],
+     [
+      57,
+      12
+     ]
+    ]
+   },
+   "3": {
+    "instrument": "bass_synth(GM38)",
+    "notes": 368,
+    "pitch_min": 45,
+    "pitch_max": 63,
+    "top_pitches": [
+     [
+      52,
+      90
+     ],
+     [
+      45,
+      72
+     ],
+     [
+      56,
+      72
+     ],
+     [
+      50,
+      66
+     ],
+     [
+      63,
+      24
+     ]
+    ]
+   },
+   "4": {
+    "instrument": "music_box(GM10)",
+    "notes": 32,
+    "pitch_min": 56,
+    "pitch_max": 68,
+    "top_pitches": [
+     [
+      57,
+      8
+     ],
+     [
+      68,
+      8
+     ],
+     [
+      64,
+      8
+     ],
+     [
+      56,
+      8
+     ]
+    ]
+   },
+   "5": {
+    "instrument": "guitar_nylon(GM24)",
+    "notes": 608,
+    "pitch_min": 69,
+    "pitch_max": 89,
+    "top_pitches": [
+     [
+      83,
+      114
+     ],
+     [
+      80,
+      96
+     ],
+     [
+      76,
+      79
+     ],
+     [
+      86,
+      76
+     ],
+     [
+      72,
+      60
+     ]
+    ]
+   },
+   "9": {
+    "instrument": "drums_GM",
+    "notes": 912,
+    "pitch_min": 36,
+    "pitch_max": 42,
+    "top_pitches": [
+     [
+      42,
+      608
+     ],
+     [
+      36,
+      152
+     ],
+     [
+      38,
+      152
+     ]
+    ]
+   }
+  },
+  "lead_channel": 5,
+  "lead_opening_pitches": [
+   83,
+   86,
+   83,
+   80,
+   83,
+   80,
+   76,
+   80,
+   76,
+   80,
+   76,
+   72,
+   76,
+   72,
+   69,
+   72
+  ]
+ }
+]
