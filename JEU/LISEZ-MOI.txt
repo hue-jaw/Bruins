@@ -1,0 +1,15 @@
+BRUINS — Fragments of a Broken Timeline (Windows)
+==================================================
+LANCER : double-clique BRUINS.exe (garde le dossier music\ a cote de l'exe).
+Aucune installation. Windows 10/11 64 bits.
+
+COMMANDES : Fleches/WASD bouger - Entree/Z parler et valider - X retour - C inventaire - Espace capacite Patience (en combat)
+PARCOURS : parle a Toriel -> porte a l'est -> pierres III, I, II -> Maison (nord) -> Cour (est) -> Gardien.
+EPARGNER LE GARDIEN : ACT Ecouter, puis Proteger, puis MERCY > Epargner. Mousselin : ACT Attendre x2 puis MERCY.
+SAUVEGARDE : points dores (fichier bruins_save.txt cree a cote de l'exe). Charger depuis l'ecran-titre.
+
+CONTENU : chapitre des Ruines complet, 2 combats bullet-hell FIGHT/ACT/ITEM/MERCY, 10 affinités d'âme, inventaire.
+MUSIQUE : arrangements remasterises des MIDI de Codex (Ruines/Toriel/combat) en WAV.
+
+NOTE TECHNIQUE : exe natif Win32 compile depuis windows-native/bruins.c (ce n'est pas une sortie GameMaker :
+l'environnement de dev n'a pas GameMaker). Le projet GameMaker d'origine est dans le depot GitHub.
