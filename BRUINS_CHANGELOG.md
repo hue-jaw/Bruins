@@ -25,3 +25,8 @@
 - `node tools/validate.cjs` : 11/11 PASS après modifications.
 - Audio : durées inchangées (180/220/165 s), crête −1,0 dB, décodage OGG/WAV OK.
 - **Non vérifié** : compilation GameMaker et playtest (aucun GameMaker dans le sandbox).
+
+## 2026-10-19 — v0.4.0 EXE Windows
+- MIDI fournis par l'utilisateur (MIDI.txt = archive 7z) extraits et verifies SHA-256 : 27/27 identiques aux MIDI reconstruits. Aucun remplacement necessaire.
+- Portage natif Windows `windows-native/bruins.c` (Win32/GDI/winmm) compile avec Zig en vrai `BRUINS.exe` PE x64 GUI (251 Ko) ; PE et imports verifies, **non teste sous Windows** (aucun Windows/Wine dans le sandbox).
+- `BRUINS_WINDOWS.zip` (23 Mo) : BRUINS.exe + music/*.wav (arrangements 22 050 Hz mono, winmm oblige) + LISEZ-MOI.txt.
