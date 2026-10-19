@@ -1,0 +1,166 @@
+{
+  "mossling": {
+    "name": {
+      "fr": "Mousselin",
+      "en": "Mossling"
+    },
+    "hp": 25,
+    "attack": 3,
+    "defense": 1,
+    "reward": 8,
+    "mercy": 3,
+    "boss": false,
+    "intro": {
+      "fr": "Il tremble. Les feuilles autour de lui tremblent aussi.",
+      "en": "He trembles. The leaves around him tremble too."
+    },
+    "turn_text": {
+      "fr": "Il cherche une issue sans te quitter des yeux.",
+      "en": "He looks for an exit without looking away from you."
+    },
+    "actions": [
+      {
+        "id": "check",
+        "name": {
+          "fr": "EXAMINER",
+          "en": "CHECK"
+        },
+        "calm": 0,
+        "effects": {},
+        "response": {
+          "fr": "Il confond chaque pas avec une menace. Attendre peut l'aider.",
+          "en": "Every footstep feels like a threat. Waiting may help."
+        }
+      },
+      {
+        "id": "listen",
+        "name": {
+          "fr": "ÉCOUTER",
+          "en": "LISTEN"
+        },
+        "calm": 1,
+        "effects": {
+          "empathy": 4
+        },
+        "response": {
+          "fr": "« J'ai vu ta main avant de voir ton visage. »",
+          "en": "\"I saw your hand before I saw your face.\""
+        }
+      },
+      {
+        "id": "wait",
+        "name": {
+          "fr": "ATTENDRE",
+          "en": "WAIT"
+        },
+        "calm": 2,
+        "effects": {
+          "patience": 10,
+          "empathy": 4
+        },
+        "response": {
+          "fr": "Tu poses les mains au sol. Une feuille se détend.",
+          "en": "You put your hands on the ground. A leaf uncurls."
+        }
+      },
+      {
+        "id": "threat",
+        "name": {
+          "fr": "MENACER",
+          "en": "THREATEN"
+        },
+        "calm": -2,
+        "effects": {
+          "chaos": 6
+        },
+        "response": {
+          "fr": "Il se replie. La peur devient plus bruyante.",
+          "en": "He curls inward. The fear grows louder."
+        }
+      }
+    ]
+  },
+  "guardian": {
+    "name": {
+      "fr": "Le Gardien creux",
+      "en": "The Hollow Guardian"
+    },
+    "hp": 80,
+    "attack": 4,
+    "defense": 3,
+    "reward": 20,
+    "mercy": 4,
+    "boss": true,
+    "intro": {
+      "fr": "« Cette fois, personne ne passera. Je ne perdrai plus personne. »",
+      "en": "\"This time, no one gets through. I will lose no one else.\""
+    },
+    "turn_text": {
+      "fr": "Ses fissures dessinent une ancienne porte.",
+      "en": "His cracks trace the outline of an old door."
+    },
+    "actions": [
+      {
+        "id": "check",
+        "name": {
+          "fr": "EXAMINER",
+          "en": "CHECK"
+        },
+        "calm": 0,
+        "effects": {},
+        "response": {
+          "fr": "Il protège une absence. Écoute-la, puis protège ce qui reste.",
+          "en": "He protects an absence. Listen to it, then protect what remains."
+        }
+      },
+      {
+        "id": "listen",
+        "name": {
+          "fr": "ÉCOUTER",
+          "en": "LISTEN"
+        },
+        "calm": 2,
+        "effects": {
+          "empathy": 6,
+          "patience": 4
+        },
+        "response": {
+          "fr": "« Ils sont passés. Je suis resté. Pourquoi suis-je resté ? »",
+          "en": "\"They went through. I stayed. Why did I stay?\""
+        }
+      },
+      {
+        "id": "protect",
+        "name": {
+          "fr": "PROTÉGER",
+          "en": "PROTECT"
+        },
+        "calm": 2,
+        "effects": {
+          "kindness": 8,
+          "bravery": 5,
+          "justice": 3
+        },
+        "response": {
+          "fr": "Tu empêches une pierre de tomber sur les fleurs. Il regarde tes mains.",
+          "en": "You stop a stone from falling onto the flowers. He watches your hands."
+        }
+      },
+      {
+        "id": "remember",
+        "name": {
+          "fr": "SE SOUVENIR",
+          "en": "REMEMBER"
+        },
+        "calm": 1,
+        "effects": {
+          "curiosity": 5
+        },
+        "response": {
+          "fr": "Tu ne lui promets pas le retour des disparus. Seulement une place pour leur mémoire.",
+          "en": "You do not promise the lost will return. Only a place for their memory."
+        }
+      }
+    ]
+  }
+}

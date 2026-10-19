@@ -1,0 +1,191 @@
+[
+  {
+    "id": "01_BRUINS_Main_Theme",
+    "title": "BRUINS - Main Theme",
+    "duration": 180,
+    "bpm": 96,
+    "path": "music/01_BRUINS_Main_Theme.ogg"
+  },
+  {
+    "id": "02_A_Different_Timeline",
+    "title": "A Different Timeline",
+    "duration": 160,
+    "bpm": 90,
+    "path": "music/02_A_Different_Timeline.ogg"
+  },
+  {
+    "id": "03_The_Fallen_Child",
+    "title": "The Fallen Child",
+    "duration": 150,
+    "bpm": 72,
+    "path": "music/03_The_Fallen_Child.ogg"
+  },
+  {
+    "id": "04_Toriel_s_Memories",
+    "title": "Toriel's Memories",
+    "duration": 220,
+    "bpm": 76,
+    "path": "music/04_Toriel_s_Memories.ogg"
+  },
+  {
+    "id": "05_A_Warm_Home",
+    "title": "A Warm Home",
+    "duration": 170,
+    "bpm": 84,
+    "path": "music/05_A_Warm_Home.ogg"
+  },
+  {
+    "id": "06_Forgotten_Ruins",
+    "title": "Forgotten Ruins",
+    "duration": 180,
+    "bpm": 88,
+    "path": "music/06_Forgotten_Ruins.ogg"
+  },
+  {
+    "id": "07_Something_Is_Watching",
+    "title": "Something Is Watching",
+    "duration": 140,
+    "bpm": 80,
+    "path": "music/07_Something_Is_Watching.ogg"
+  },
+  {
+    "id": "08_First_Encounter",
+    "title": "First Encounter",
+    "duration": 165,
+    "bpm": 128,
+    "path": "music/08_First_Encounter.ogg"
+  },
+  {
+    "id": "09_Echoing_Forest",
+    "title": "Echoing Forest",
+    "duration": 200,
+    "bpm": 104,
+    "path": "music/09_Echoing_Forest.ogg"
+  },
+  {
+    "id": "10_Gentle_Monsters",
+    "title": "Gentle Monsters",
+    "duration": 155,
+    "bpm": 108,
+    "path": "music/10_Gentle_Monsters.ogg"
+  },
+  {
+    "id": "11_The_Guardian",
+    "title": "The Guardian",
+    "duration": 225,
+    "bpm": 120,
+    "path": "music/11_The_Guardian.ogg"
+  },
+  {
+    "id": "12_Hollow_City",
+    "title": "Hollow City",
+    "duration": 210,
+    "bpm": 102,
+    "path": "music/12_Hollow_City.ogg"
+  },
+  {
+    "id": "13_Nobody_Remembers",
+    "title": "Nobody Remembers",
+    "duration": 190,
+    "bpm": 68,
+    "path": "music/13_Nobody_Remembers.ogg"
+  },
+  {
+    "id": "14_The_Clockmaker",
+    "title": "The Clockmaker",
+    "duration": 260,
+    "bpm": 140,
+    "path": "music/14_The_Clockmaker.ogg"
+  },
+  {
+    "id": "15_Fractured_Time",
+    "title": "Fractured Time",
+    "duration": 195,
+    "bpm": 112,
+    "path": "music/15_Fractured_Time.ogg"
+  },
+  {
+    "id": "16_Soul_Archive",
+    "title": "Soul Archive",
+    "duration": 220,
+    "bpm": 92,
+    "path": "music/16_Soul_Archive.ogg"
+  },
+  {
+    "id": "17_Colors_of_the_Soul",
+    "title": "Colors of the Soul",
+    "duration": 205,
+    "bpm": 110,
+    "path": "music/17_Colors_of_the_Soul.ogg"
+  },
+  {
+    "id": "18_Your_Other_Self",
+    "title": "Your Other Self",
+    "duration": 270,
+    "bpm": 144,
+    "path": "music/18_Your_Other_Self.ogg"
+  },
+  {
+    "id": "19_Determination",
+    "title": "Determination",
+    "duration": 210,
+    "bpm": 132,
+    "path": "music/19_Determination.ogg"
+  },
+  {
+    "id": "20_Patience",
+    "title": "Patience",
+    "duration": 175,
+    "bpm": 66,
+    "path": "music/20_Patience.ogg"
+  },
+  {
+    "id": "21_Bravery",
+    "title": "Bravery",
+    "duration": 195,
+    "bpm": 152,
+    "path": "music/21_Bravery.ogg"
+  },
+  {
+    "id": "22_Broken_Promises",
+    "title": "Broken Promises",
+    "duration": 220,
+    "bpm": 74,
+    "path": "music/22_Broken_Promises.ogg"
+  },
+  {
+    "id": "23_Final_Timeline",
+    "title": "Final Timeline",
+    "duration": 290,
+    "bpm": 138,
+    "path": "music/23_Final_Timeline.ogg"
+  },
+  {
+    "id": "24_The_World_Is_Empty",
+    "title": "The World Is Empty",
+    "duration": 250,
+    "bpm": 60,
+    "path": "music/24_The_World_Is_Empty.ogg"
+  },
+  {
+    "id": "25_One_Last_Goodbye",
+    "title": "One Last Goodbye",
+    "duration": 225,
+    "bpm": 70,
+    "path": "music/25_One_Last_Goodbye.ogg"
+  },
+  {
+    "id": "26_The_True_Ending",
+    "title": "The True Ending",
+    "duration": 270,
+    "bpm": 100,
+    "path": "music/26_The_True_Ending.ogg"
+  },
+  {
+    "id": "27_Beyond_the_Reset",
+    "title": "Beyond the Reset",
+    "duration": 240,
+    "bpm": 94,
+    "path": "music/27_Beyond_the_Reset.ogg"
+  }
+]

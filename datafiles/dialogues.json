@@ -1,0 +1,347 @@
+{
+  "opening": {
+    "speaker": "???",
+    "text": {
+      "fr": "Tu es revenu.\nPourtant... je ne me souviens pas t'avoir laissé partir.",
+      "en": "You came back.\nAnd yet... I do not remember letting you go."
+    },
+    "choices": [],
+    "next": "opening2"
+  },
+  "opening2": {
+    "speaker": "BRUINS",
+    "text": {
+      "fr": "Des fleurs pâles poussent sous la pierre. Tu te relèves. Quelqu'un attend près de la lampe.\nFlèches / WASD : marcher. Entrée / Z : parler.",
+      "en": "Pale flowers grow beneath the stone. You rise. Someone waits by the lamp.\nArrows / WASD: walk. Enter / Z: speak."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "meeting": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Oh... mon enfant. Je pensais ne jamais te revoir.\nAttends... Ton âme... elle n'avait pas cette couleur.",
+      "en": "Oh... my child. I thought I would never see you again.\nWait... Your soul... it was not that color."
+    },
+    "choices": [
+      {
+        "text": {
+          "fr": "Qui êtes-vous ?",
+          "en": "Who are you?"
+        },
+        "effects": {
+          "curiosity": 5,
+          "trust_toriel": 1
+        },
+        "next": "who"
+      },
+      {
+        "text": {
+          "fr": "Vous me connaissez ?",
+          "en": "Do you know me?"
+        },
+        "effects": {
+          "empathy": 6,
+          "remembered_timelines": 1
+        },
+        "next": "know"
+      },
+      {
+        "text": {
+          "fr": "Je me souviens de vous.",
+          "en": "I remember you."
+        },
+        "effects": {
+          "chaos": 6,
+          "integrity": -5,
+          "affection_toriel": 2
+        },
+        "next": "remember"
+      },
+      {
+        "text": {
+          "fr": "Ne vous approchez pas.",
+          "en": "Stay away."
+        },
+        "effects": {
+          "bravery": 8,
+          "fear_toriel": 2
+        },
+        "next": "away"
+      },
+      {
+        "text": {
+          "fr": "Rester silencieux.",
+          "en": "Stay silent."
+        },
+        "effects": {
+          "patience": 10,
+          "empathy": 4
+        },
+        "next": "silent"
+      }
+    ],
+    "next": ""
+  },
+  "who": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Toriel. Un nom suffit pour commencer. Tu n'as pas à me donner le tien avant de le vouloir.",
+      "en": "Toriel. A name is enough to begin. You need not give me yours until you wish to."
+    },
+    "choices": [],
+    "next": "guidance"
+  },
+  "know": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Je connais un enfant qui compte les marches. Un autre qui en a peur. Les deux avaient ton visage. Je ne sais plus lequel j'attends.",
+      "en": "I know a child who counts the steps. Another who fears them. Both had your face. I no longer know which one I am waiting for."
+    },
+    "choices": [],
+    "next": "guidance"
+  },
+  "remember": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Alors... quelle chanson chantais-je ?\nNon, pardon. Je ne dois pas transformer ton réveil en examen. Mais cette réponse me suivra.",
+      "en": "Then... what song did I sing?\nNo, forgive me. Your waking should not become a test. But I will remember your answer."
+    },
+    "choices": [],
+    "next": "guidance"
+  },
+  "away": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "D'accord. Je pose la lampe ici et je recule. La peur n'est pas une faute. Tu peux choisir la distance.",
+      "en": "All right. I will put the lamp here and step back. Fear is not a fault. You may choose the distance."
+    },
+    "choices": [],
+    "next": "guidance"
+  },
+  "silent": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Nous pouvons écouter les gouttes ensemble. Elles ne demandent jamais de réponse.\n...Voilà. Une minute qui appartient seulement à nous.",
+      "en": "We can listen to the drops together. They never ask for an answer.\n...There. A minute that belongs only to us."
+    },
+    "choices": [],
+    "next": "guidance"
+  },
+  "guidance": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "À l'est, les pierres chantantes ouvrent la cour. Ma maison se trouve au nord. Si tu rencontres une petite mousse, écoute-la avant de lever la main.",
+      "en": "To the east, the singing stones open the courtyard. My home is to the north. If you meet a little moss creature, listen before raising your hand."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "meeting_reset": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Cette fois, j'ai posé deux tasses avant ton arrivée. Je ne sais pas pourquoi.\nToi non plus... n'est-ce pas ?",
+      "en": "This time, I set out two cups before you arrived. I do not know why.\nNeither do you... do you?"
+    },
+    "choices": [],
+    "next": "meeting",
+    "effects": {
+      "remembered_timelines": 1
+    }
+  },
+  "mother_home": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Tu peux rester pour une tarte. Mais je ne fermerai pas la porte.\nPeux-tu me promettre d'écouter ceux qui te font peur ?",
+      "en": "You may stay for pie. But I will not lock the door.\nCan you promise to listen to those who frighten you?"
+    },
+    "choices": [
+      {
+        "text": {
+          "fr": "Je le promets.",
+          "en": "I promise."
+        },
+        "effects": {
+          "promise": true,
+          "trust_toriel": 2,
+          "integrity": 10
+        },
+        "next": "promise"
+      },
+      {
+        "text": {
+          "fr": "Je ne sais pas si je pourrai.",
+          "en": "I do not know if I can."
+        },
+        "effects": {
+          "integrity": 10,
+          "justice": 3
+        },
+        "next": "honest"
+      }
+    ],
+    "next": ""
+  },
+  "promise": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Une promesse n'est pas une chaîne. Si elle devient difficile, reviens m'en parler.",
+      "en": "A promise is not a chain. If it becomes difficult, come back and tell me."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "honest": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Merci de ne pas m'offrir une réponse pour me faire plaisir. L'honnêteté est parfois une petite porte très lourde.",
+      "en": "Thank you for not giving me an answer merely to please me. Honesty can be a very heavy little door."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "mother_grief": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "La mousse ne chante plus. Je suis allée voir.\nJe ne peux pas choisir à ta place. Mais je ne ferai pas semblant de ne rien entendre dans ce silence.",
+      "en": "The moss no longer sings. I went to see.\nI cannot choose for you. But I will not pretend this silence says nothing."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "mother_return": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Le gardien m'a envoyé un souvenir. Tu lui as permis de déposer sa charge.\nPour une fois, je reconnais ce présent sans le confondre avec hier.",
+      "en": "The guardian sent me a memory. You let him lay down his burden.\nFor once, I recognize this present without confusing it with yesterday."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "inscription": {
+    "speaker": "Pierres / Stones",
+    "text": {
+      "fr": "« La dernière voix commence. La première répond. Celle du milieu nous réunit. »\nLes pierres portent I, II et III, de gauche à droite.",
+      "en": "\"The last voice begins. The first replies. The middle one brings us together.\"\nThe stones bear I, II and III, from left to right."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "puzzle_done": {
+    "speaker": "Écho / Echo",
+    "text": {
+      "fr": "Les trois notes s'entrelacent. Derrière la porte, quelque chose respire.\nTon âme retient le rythme.",
+      "en": "The three notes intertwine. Beyond the door, something breathes.\nYour soul remembers the rhythm."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "cooking": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Tu tiens le bol pendant qu'elle verse le miel. Pendant un instant, vos gestes se connaissent.\n« Dans mon souvenir, tu cassais toujours deux œufs. Aujourd'hui, un seul suffit. »",
+      "en": "You hold the bowl as she pours the honey. For an instant, your hands remember each other.\n\"In my memory, you always broke two eggs. Today, one is enough.\""
+    },
+    "choices": [],
+    "next": ""
+  },
+  "cooking_after": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "La deuxième part refroidit près de la fenêtre. Tu n'as pas besoin d'avoir faim pour rester.",
+      "en": "The second slice cools by the window. You do not have to be hungry to stay."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "book": {
+    "speaker": "Toriel",
+    "text": {
+      "fr": "Le conte s'arrête au milieu d'une phrase.\n« Les pages suivantes n'ont pas disparu. Elles n'ont jamais été écrites. »\nDerrière la bibliothèque, un courant d'air froid.",
+      "en": "The tale ends in the middle of a sentence.\n\"The next pages did not disappear. They were never written.\"\nA cold draft comes from behind the bookshelf."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "secret": {
+    "speaker": "Souvenir / Memory",
+    "text": {
+      "fr": "Une photographie : dix enfants, un seul visage. Le tien. Au dos : « Nous avons divisé ce qui ne pouvait pas survivre entier. »\nTu gardes le fragment.",
+      "en": "A photograph: ten children, one face. Yours. On the back: \"We divided what could not survive whole.\"\nYou keep the fragment."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "shop": {
+    "speaker": "Plic",
+    "text": {
+      "fr": "Je vends des bonbons aux voyageurs. Pas aux horloges. Elles demandent toujours du temps à crédit.\nLe panier voisin : 5 éclats par bonbon.",
+      "en": "I sell candy to travelers. Not clocks. They always ask for time on credit.\nThe nearby basket: 5 shards per candy."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "friend": {
+    "speaker": "Mousselin / Mossling",
+    "text": {
+      "fr": "Tu avais attendu. Alors j'ai attendu aussi.\nSi le gardien t'effraie, dis-lui que personne ne lui demande de réparer hier.",
+      "en": "You waited. So I waited too.\nIf the guardian frightens you, tell him no one is asking him to repair yesterday."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "empty_patch": {
+    "speaker": "...",
+    "text": {
+      "fr": "Une empreinte sèche remplace la mousse. Le chemin est plus facile. Rien ne le rend plus doux.",
+      "en": "A dry imprint remains where the moss grew. The path is easier. Nothing makes it gentler."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "victory_kind": {
+    "speaker": "Âme / Soul",
+    "text": {
+      "fr": "Le conflit s'apaise. Une couleur nouvelle se mêle au rouge.\nTes choix ont modifié tes affinités. C ouvre ton inventaire et ton état d'âme.",
+      "en": "The conflict settles. A new color joins the red.\nYour choices changed your affinities. C opens your inventory and soul status."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "victory_kill": {
+    "speaker": "Âme / Soul",
+    "text": {
+      "fr": "Le passage se libère. Le silence, lui, reste.\nQuelqu'un se souviendra de cette absence.",
+      "en": "The passage clears. The silence stays.\nSomeone will remember this absence."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "gate_after": {
+    "speaker": "Gardien / Guardian",
+    "text": {
+      "fr": "Je gardais une porte que personne ne m'avait demandé de fermer.\nTu peux passer. Je vais apprendre à rester autrement.",
+      "en": "I guarded a door no one asked me to close.\nYou may pass. I will learn another way to stay."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "chapter_kind": {
+    "speaker": "BRUINS",
+    "text": {
+      "fr": "Au-delà des Ruines, la forêt répète une voix que tu n'as pas encore entendue.\nFin du contenu actuellement écrit. Tu peux revenir explorer et sauvegarder. Les chapitres suivants ne sont pas encore produits.",
+      "en": "Beyond the Ruins, the forest repeats a voice you have not yet heard.\nEnd of the currently authored content. You may return to explore and save. Later chapters have not been produced."
+    },
+    "choices": [],
+    "next": ""
+  },
+  "chapter_dark": {
+    "speaker": "BRUINS",
+    "text": {
+      "fr": "Au-delà des Ruines, l'écho ne trouve personne à imiter.\nFin du contenu actuellement écrit. Les conséquences suivantes et les autres chapitres restent à produire. Tu peux revenir sauvegarder.",
+      "en": "Beyond the Ruins, the echo finds no one to imitate.\nEnd of the currently authored content. Further consequences and chapters remain to be made. You may return to save."
+    },
+    "choices": [],
+    "next": ""
+  }
+}

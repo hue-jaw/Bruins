@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-19T12:58:20.329Z",
+  "scope": "Static source/data/asset checks. No GML compilation, runtime or listening tests.",
+  "checks": 11,
+  "resources": 20,
+  "gmlFiles": 13,
+  "dialogueNodes": 29,
+  "log": [
+    "PASS Project references, names and resource types",
+    "PASS Instance object references and event files",
+    "PASS Bilingual dialogue graph and distinct opening choices",
+    "PASS Ten affinity ids and five configurable hybrids",
+    "PASS World maps, transition targets, spawn collision clearance and reachable interactions",
+    "PASS Encounters have damaging stats and reachable mercy requirements",
+    "PASS GML delimiters and closed strings/comments (lexical only)",
+    "PASS All custom function calls have a definition",
+    "PASS Literal narrative/resource/item references resolve",
+    "PASS Sprite PNG frames, dimensions, layers and keyframes",
+    "AUDIO mus_ruins: 160s, peak 9593, RMS 1757",
+    "AUDIO mus_encounter: 128s, peak 8981, RMS 1718",
+    "PASS PCM WAV headers, durations, non-silence, clipping and resources"
+  ]
+}

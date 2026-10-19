@@ -1,0 +1,328 @@
+{
+  "intro": {
+    "name": {
+      "fr": "Le lit de fleurs",
+      "en": "The Flowerbed"
+    },
+    "map": [
+      "####################",
+      "#..................#",
+      "#..##.........##...#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#...##.............#",
+      "#..................#",
+      "####################"
+    ],
+    "entities": [
+      {
+        "kind": "mother",
+        "x": 330,
+        "y": 170,
+        "label": {
+          "fr": "Toriel",
+          "en": "Toriel"
+        }
+      },
+      {
+        "kind": "save",
+        "x": 110,
+        "y": 130,
+        "label": {
+          "fr": "Sauvegarder",
+          "en": "Save"
+        }
+      },
+      {
+        "kind": "door",
+        "x": 590,
+        "y": 170,
+        "label": {
+          "fr": "Ruines >",
+          "en": "Ruins >"
+        },
+        "to": "ruins",
+        "px": 65,
+        "py": 180
+      }
+    ]
+  },
+  "ruins": {
+    "name": {
+      "fr": "Les pierres chantantes",
+      "en": "The Singing Stones"
+    },
+    "map": [
+      "####################",
+      "#..................#",
+      "#..##.........##...#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#...##.............#",
+      "#..................#",
+      "####################"
+    ],
+    "entities": [
+      {
+        "kind": "door",
+        "x": 48,
+        "y": 180,
+        "label": {
+          "fr": "< Fleurs",
+          "en": "< Flowers"
+        },
+        "to": "intro",
+        "px": 560,
+        "py": 170
+      },
+      {
+        "kind": "door",
+        "x": 320,
+        "y": 48,
+        "label": {
+          "fr": "Maison ^",
+          "en": "Home ^"
+        },
+        "to": "home",
+        "px": 320,
+        "py": 260
+      },
+      {
+        "kind": "door",
+        "x": 590,
+        "y": 170,
+        "label": {
+          "fr": "Cour >",
+          "en": "Court >"
+        },
+        "to": "gate",
+        "px": 65,
+        "py": 180
+      },
+      {
+        "kind": "sign",
+        "x": 130,
+        "y": 105,
+        "label": {
+          "fr": "Inscription",
+          "en": "Inscription"
+        }
+      },
+      {
+        "kind": "switch",
+        "x": 230,
+        "y": 140,
+        "label": {
+          "fr": "I",
+          "en": "I"
+        },
+        "note": 0
+      },
+      {
+        "kind": "switch",
+        "x": 320,
+        "y": 140,
+        "label": {
+          "fr": "II",
+          "en": "II"
+        },
+        "note": 1
+      },
+      {
+        "kind": "switch",
+        "x": 410,
+        "y": 140,
+        "label": {
+          "fr": "III",
+          "en": "III"
+        },
+        "note": 2
+      },
+      {
+        "kind": "pickup",
+        "x": 230,
+        "y": 245,
+        "label": {
+          "fr": "Boîte",
+          "en": "Box"
+        }
+      },
+      {
+        "kind": "enemy",
+        "x": 470,
+        "y": 245,
+        "label": {
+          "fr": "Mousselin",
+          "en": "Mossling"
+        }
+      },
+      {
+        "kind": "save",
+        "x": 80,
+        "y": 250,
+        "label": {
+          "fr": "Sauvegarder",
+          "en": "Save"
+        }
+      }
+    ]
+  },
+  "home": {
+    "name": {
+      "fr": "Une maison pour deux souvenirs",
+      "en": "A Home for Two Memories"
+    },
+    "map": [
+      "####################",
+      "#..................#",
+      "#..##.........##...#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#...##.............#",
+      "#..................#",
+      "####################"
+    ],
+    "entities": [
+      {
+        "kind": "door",
+        "x": 320,
+        "y": 270,
+        "label": {
+          "fr": "Ruines v",
+          "en": "Ruins v"
+        },
+        "to": "ruins",
+        "px": 320,
+        "py": 80
+      },
+      {
+        "kind": "mother",
+        "x": 320,
+        "y": 150,
+        "label": {
+          "fr": "Toriel",
+          "en": "Toriel"
+        }
+      },
+      {
+        "kind": "cook",
+        "x": 130,
+        "y": 160,
+        "label": {
+          "fr": "Cuisiner",
+          "en": "Cook"
+        }
+      },
+      {
+        "kind": "book",
+        "x": 460,
+        "y": 110,
+        "label": {
+          "fr": "Lire ensemble",
+          "en": "Read together"
+        }
+      },
+      {
+        "kind": "secret",
+        "x": 530,
+        "y": 110,
+        "label": {
+          "fr": "Mur",
+          "en": "Wall"
+        }
+      },
+      {
+        "kind": "save",
+        "x": 95,
+        "y": 250,
+        "label": {
+          "fr": "Sauvegarder",
+          "en": "Save"
+        }
+      },
+      {
+        "kind": "shop",
+        "x": 450,
+        "y": 240,
+        "label": {
+          "fr": "Plic",
+          "en": "Plic"
+        }
+      },
+      {
+        "kind": "buy",
+        "x": 530,
+        "y": 240,
+        "label": {
+          "fr": "Bonbon : 5",
+          "en": "Candy: 5"
+        }
+      }
+    ]
+  },
+  "gate": {
+    "name": {
+      "fr": "La porte sans lendemain",
+      "en": "The Door Without Tomorrow"
+    },
+    "map": [
+      "####################",
+      "#..................#",
+      "#..##.........##...#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#..................#",
+      "#...##.............#",
+      "#..................#",
+      "####################"
+    ],
+    "entities": [
+      {
+        "kind": "door",
+        "x": 48,
+        "y": 180,
+        "label": {
+          "fr": "< Ruines",
+          "en": "< Ruins"
+        },
+        "to": "ruins",
+        "px": 560,
+        "py": 170
+      },
+      {
+        "kind": "boss",
+        "x": 370,
+        "y": 170,
+        "label": {
+          "fr": "Gardien",
+          "en": "Guardian"
+        }
+      },
+      {
+        "kind": "save",
+        "x": 130,
+        "y": 250,
+        "label": {
+          "fr": "Sauvegarder",
+          "en": "Save"
+        }
+      },
+      {
+        "kind": "end",
+        "x": 570,
+        "y": 170,
+        "label": {
+          "fr": "Forêt >",
+          "en": "Forest >"
+        }
+      }
+    ]
+  }
+}

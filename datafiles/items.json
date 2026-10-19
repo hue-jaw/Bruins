@@ -1,0 +1,35 @@
+{
+  "candy": {
+    "name": {
+      "fr": "Bonbon d'écho",
+      "en": "Echo Candy"
+    },
+    "description": {
+      "fr": "Restaure 8 PV. Le goût dure une seconde de trop.",
+      "en": "Restores 8 HP. The taste lasts one second too long."
+    },
+    "heal": 8
+  },
+  "pie": {
+    "name": {
+      "fr": "Tarte au miel",
+      "en": "Honey Pie"
+    },
+    "description": {
+      "fr": "Restaure 18 PV. Un souvenir partagé en cuisine.",
+      "en": "Restores 18 HP. A memory shared in the kitchen."
+    },
+    "heal": 18
+  },
+  "shard": {
+    "name": {
+      "fr": "Fragment de mémoire",
+      "en": "Memory Shard"
+    },
+    "description": {
+      "fr": "Une photographie où ton visage a été effacé. Objet narratif.",
+      "en": "A photograph with your face erased. Story item."
+    },
+    "heal": 0
+  }
+}

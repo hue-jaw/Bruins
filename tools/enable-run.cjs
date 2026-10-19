@@ -1,0 +1,1 @@
+const fs=require('fs'),path=require('path');const p=path.join(__dirname,'build-windows.cjs');let s=fs.readFileSync(p,'utf8');s=s.replace("['Compile','PackageZip','PackageNsis']","['Compile','PackageZip','PackageNsis','Run']");s=s.replace("'/of='+path.join(out,'BRUINS')","'/of='+path.join(out,action==='Run'?'BRUINS.win':'BRUINS')");fs.writeFileSync(p,s);

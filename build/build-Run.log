@@ -1,0 +1,135 @@
+Options: C:/ProgramData/GameMakerStudio2-LTS2026/Cache/runtimes/runtime-2026.0.0.23\bin\platform_setting_defaults.json
+Options: C:\Users\sabli\AppData\Roaming\GameMakerStudio2-LTS2026\unknownUser_unknownUserID\local_settings.json
+Failed to load Options from C:\Users\sabli\AppData\Roaming\GameMakerStudio2-LTS2026\unknownUser_unknownUserID\local_settings.json
+Setting up the Asset compiler
+Found Project Format 2
+Core Resources : Info - +++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 488.3977ms
+Success
+finished adding assets from C:/Users/sabli/AppData/Local/Temp/BRUINS/BRUINS.yyp.
+Release build
+Options: C:\Users\sabli\AppData\Local\Temp\BRUINS-build-cache\ExtensionOptions.json
+OptionsIni
+Options: C:\Users\sabli\AppData\Local\Temp\BRUINS-build-cache\PlatformOptions.json
+[Compile] Run asset compiler
+Looking for built-in fallback image in C:/ProgramData/GameMakerStudio2-LTS2026/Cache/runtimes/runtime-2026.0.0.23\bin\BuiltinImages
+Compile Constants...finished.
+Remove DnD...finished.
+Compile Scripts...finished.
+Compile Rooms...finished..... 0 CC empty
+finished..... 0 CC empty
+Compile Objects...finished.... 0 empty events
+Compile Timelines...finished.
+Compile Triggers...finished.
+Compile Extensions...Compile UI Layers...finished.
+Global scripts...finished.
+collapsing enums.
+Final Compile...Final Compile finished.
+Saving IFF file... C:\Users\sabli\AppData\Local\Temp\BRUINS\build\BRUINS.win
+Writing Chunk... GEN8 size ... -0.00 MB
+option_game_speed=60
+Writing Chunk... OPTN size ... 0.00 MB
+Writing Chunk... LANG size ... 0.00 MB
+Writing Chunk... EXTN size ... 0.00 MB
+Writing Chunk... SOND size ... 0.00 MB
+Writing Chunk... AGRP size ... 0.00 MB
+Writing Chunk... SPRT size ... 0.00 MB
+Writing Chunk... BGND size ... 0.00 MB
+Writing Chunk... PATH size ... 0.00 MB
+Writing Chunk... SCPT size ... 0.00 MB
+Writing Chunk... GLOB size ... 0.00 MB
+Writing Chunk... SHDR size ... 0.00 MB
+Writing Chunk... FONT size ... 0.00 MB
+Writing Chunk... TMLN size ... 0.00 MB
+Writing Chunk... OBJT size ... 0.00 MB
+Writing Chunk... FEDS size ... 0.00 MB
+Writing Chunk... ACRV size ... 0.00 MB
+Writing Chunk... SEQN size ... 0.00 MB
+Writing Chunk... TAGS size ... 0.00 MB
+Writing Chunk... ROOM size ... 0.00 MB
+Writing Chunk... UILR size ... 0.00 MB
+Writing Chunk... DAFL size ... 0.00 MB
+Writing Chunk... EMBI size ... 0.00 MB
+Writing Chunk... PSEM size ... 0.00 MB
+Writing Chunk... PSYS size ... 0.00 MB
+Writing Chunk... TPAGE size ... 0.00 MB
+Texture Group - __YY__0fallbacktexture.png_YYG_AUTO_GEN_TEX_GROUP_NAME_
+Texture Group - Default
+Writing Chunk... TGIN size ... 0.00 MB
+Writing Chunk... CODE size ... 0.00 MB
+Writing Chunk... VARI size ... 0.06 MB
+Writing Chunk... FUNC size ... 0.01 MB
+Writing Chunk... FEAT size ... 0.00 MB
+Writing Chunk... STRG size ... 0.00 MB
+Writing Chunk... TXTR size ... 0.02 MB
+0 Compressing texture... writing texture __yy__0fallbacktexture.png_yyg_auto_gen_tex_group_name__0.yytex... 
+1 Compressing texture... writing texture default_0.yytex... 
+Writing Chunk... AUDO size ... 0.00 MB
+Writing Chunk... SCPT size ... -0.00 MB
+Writing Chunk... DBGI size ... 0.00 MB
+Writing Chunk... INST size ... 0.03 MB
+Writing Chunk... LOCL size ... 0.00 MB
+Writing Chunk... DFNC size ... 0.00 MB
+Writing Chunk... STRG size ... 0.00 MB
+Stats : GMA : Elapsed=821.8115
+Stats : GMA : sp=3,au=2,bk=0,pt=0,sc=86,sh=0,fo=0,tl=0,ob=1,ro=5,da=33,ex=0,ma=6,fm=0x929C4DE624A0
+Igor complete.
+[Run] Run game
+
+***************************************
+ *     GameMaker v2026.0.0.23    *
+***************************************
+Setting scheduler resolution to 1
+Attempting to use high process priority settings
+Set process priority to HIGH_PRIORITY_CLASS
+Set main thread priority to HIGHEST
+Registered with MMCSS 'Games' task
+Set MMCSS thread priority to CRITICAL
+Reading File C:\Users\sabli\AppData\Local\Temp\BRUINS\build\BRUINS.win took 7 ms
+DirectX11: Using hardware device
+Collision Event time(microsecs)=3
+Variable_Global_Init()
+PrepareGame()
+Audio_Init()
+Audio group 0 -> Loaded
+Attempting to set gamepadcount to 12
+Game_Prepare()
+Script_Prepare() 
+TimeLine_Prepare() 
+Object_Prepare() 
+Room_Prepare() 
+Finished PrepareGame() 
+Run_Start
+Done g_EffectsManager.Init()
+Done RenderStateManager
+CreateColPairs took 0.000000s 0 usecs for 2 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+Done ObjectLists
+Done Extension_Initialize
+About to startroom
+FreeType :: unable to find font file Consolas
+Total memory used = 23397530 (0x0165049a) bytes 22.31MB
+Free memory = 6121872 (0x005d6990) bytes 5.84MB
+Peak memory used = 24162451 (0x0170b093) bytes 23.04MB
+**********************************.
+Entering main loop.
+**********************************.
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+Pause event has been registered for this frame
+Pause event has been unregistered
+###game_end###254
+ERROR!!! :: ############################################################################################
+ERROR in action number 1
+of Other Event: Game End for object obj_game_manager:
+font_delete argument 1 invalid reference to (font) - requested -1 max is 0
+ at gml_Object_obj_game_manager_Other_3 (line 3) - font_delete(global.font);
+############################################################################################
+gml_Object_obj_game_manager_Other_3 (line 3)
+
+Script_Free called with 86 and global 9
+C:/ProgramData/GameMakerStudio2-LTS2026/Cache/runtimes/runtime-2026.0.0.23\Windows\x64\Runner.exe exited with non-zero status (1)

@@ -1,0 +1,1 @@
+const fs=require('fs'),path=require('path'),{parse}=require('./yy-json.cjs');const p=path.resolve(__dirname,'../objects/obj_game_manager/obj_game_manager.yy'),v=parse(fs.readFileSync(p));v.managed=true;fs.writeFileSync(p,JSON.stringify(v,null,2));

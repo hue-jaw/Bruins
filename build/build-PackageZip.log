@@ -1,0 +1,16 @@
+Options: C:/ProgramData/GameMakerStudio2-LTS2026/Cache/runtimes/runtime-2026.0.0.23\bin\platform_setting_defaults.json
+Options: C:\Users\sabli\AppData\Roaming\GameMakerStudio2-LTS2026\unknownUser_unknownUserID\local_settings.json
+Failed to load Options from C:\Users\sabli\AppData\Roaming\GameMakerStudio2-LTS2026\unknownUser_unknownUserID\local_settings.json
+Setting up the Asset compiler
+Found Project Format 2
+Core Resources : Info - +++ GMSC serialisation:  SUCCESSFUL LOAD AND LINK TIME: 481.8422ms
+Success
+finished adding assets from C:/Users/sabli/AppData/Local/Temp/BRUINS/BRUINS.yyp.
+Release build
+Options: C:\Users\sabli\AppData\Local\Temp\BRUINS-build-cache\ExtensionOptions.json
+OptionsIni
+Options: C:\Users\sabli\AppData\Local\Temp\BRUINS-build-cache\PlatformOptions.json
+[Compile] Run asset compiler
+Reason Code - 0000002A
+Permission Error : Unable to obtain permission to execute
+C:/ProgramData/GameMakerStudio2-LTS2026/Cache/runtimes/runtime-2026.0.0.23/bin/assetcompiler/windows/x64/GMAssetCompiler.dll exited with non-zero status (-1)

@@ -1,0 +1,216 @@
+{
+  "affinities": [
+    {
+      "id": "determination",
+      "name": {
+        "fr": "Détermination",
+        "en": "Determination"
+      },
+      "color": [
+        235,
+        63,
+        85
+      ],
+      "hint": {
+        "fr": "Libre. Sous 6 PV, les dégâts diminuent.",
+        "en": "Free movement. Below 6 HP, damage is reduced."
+      }
+    },
+    {
+      "id": "patience",
+      "name": {
+        "fr": "Patience",
+        "en": "Patience"
+      },
+      "color": [
+        90,
+        224,
+        241
+      ],
+      "hint": {
+        "fr": "ESPACE : ralentir les projectiles (3 secondes).",
+        "en": "SPACE: slow bullets (3 seconds)."
+      }
+    },
+    {
+      "id": "bravery",
+      "name": {
+        "fr": "Bravoure",
+        "en": "Bravery"
+      },
+      "color": [
+        246,
+        153,
+        65
+      ],
+      "hint": {
+        "fr": "Vitesse accrue. Bouge pour traverser les tirs orange.",
+        "en": "Move faster. Keep moving through orange bullets."
+      }
+    },
+    {
+      "id": "integrity",
+      "name": {
+        "fr": "Intégrité",
+        "en": "Integrity"
+      },
+      "color": [
+        90,
+        121,
+        244
+      ],
+      "hint": {
+        "fr": "Gravité. ESPACE au sol : sauter.",
+        "en": "Gravity. SPACE on the ground: jump."
+      }
+    },
+    {
+      "id": "perseverance",
+      "name": {
+        "fr": "Persévérance",
+        "en": "Perseverance"
+      },
+      "color": [
+        180,
+        97,
+        224
+      ],
+      "hint": {
+        "fr": "HAUT/BAS : changer de rail.",
+        "en": "UP/DOWN: switch rails."
+      }
+    },
+    {
+      "id": "kindness",
+      "name": {
+        "fr": "Gentillesse",
+        "en": "Kindness"
+      },
+      "color": [
+        98,
+        222,
+        133
+      ],
+      "hint": {
+        "fr": "ESPACE : bouclier dans la direction du mouvement.",
+        "en": "SPACE: shield toward your movement direction."
+      }
+    },
+    {
+      "id": "justice",
+      "name": {
+        "fr": "Justice",
+        "en": "Justice"
+      },
+      "color": [
+        250,
+        220,
+        82
+      ],
+      "hint": {
+        "fr": "Z : tirer sur les obstacles jaunes.",
+        "en": "Z: shoot yellow obstacles."
+      }
+    },
+    {
+      "id": "empathy",
+      "name": {
+        "fr": "Empathie",
+        "en": "Empathy"
+      },
+      "color": [
+        244,
+        139,
+        197
+      ],
+      "hint": {
+        "fr": "ESPACE : voir la trajectoire des projectiles.",
+        "en": "SPACE: reveal bullet trajectories."
+      }
+    },
+    {
+      "id": "curiosity",
+      "name": {
+        "fr": "Curiosité",
+        "en": "Curiosity"
+      },
+      "color": [
+        65,
+        205,
+        182
+      ],
+      "hint": {
+        "fr": "Atteins le symbole caché, puis ESPACE : soin et apaisement.",
+        "en": "Reach the hidden symbol, then SPACE: heal and soothe."
+      }
+    },
+    {
+      "id": "chaos",
+      "name": {
+        "fr": "Chaos",
+        "en": "Chaos"
+      },
+      "color": [
+        133,
+        80,
+        169
+      ],
+      "hint": {
+        "fr": "Toutes les 2 secondes : axe horizontal inversé, vitesse accrue.",
+        "en": "Every 2 seconds: horizontal reversal and speed boost."
+      }
+    }
+  ],
+  "hybrids": [
+    {
+      "a": 0,
+      "b": 5,
+      "name": {
+        "fr": "Protecteur",
+        "en": "Protector"
+      },
+      "threshold": 35,
+      "margin": 8
+    },
+    {
+      "a": 2,
+      "b": 6,
+      "name": {
+        "fr": "Justicier",
+        "en": "Avenger"
+      },
+      "threshold": 35,
+      "margin": 8
+    },
+    {
+      "a": 1,
+      "b": 7,
+      "name": {
+        "fr": "Médiateur",
+        "en": "Mediator"
+      },
+      "threshold": 35,
+      "margin": 8
+    },
+    {
+      "a": 8,
+      "b": 9,
+      "name": {
+        "fr": "Anomalie",
+        "en": "Anomaly"
+      },
+      "threshold": 35,
+      "margin": 8
+    },
+    {
+      "a": 3,
+      "b": 4,
+      "name": {
+        "fr": "Gardien",
+        "en": "Keeper"
+      },
+      "threshold": 35,
+      "margin": 8
+    }
+  ]
+}

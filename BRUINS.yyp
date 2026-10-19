@@ -1,0 +1,501 @@
+{
+  "$GMProject": "",
+  "%Name": "BRUINS",
+  "AudioGroups": [
+    {
+      "$GMAudioGroup": "",
+      "%Name": "audiogroup_default",
+      "name": "audiogroup_default",
+      "resourceType": "GMAudioGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default"
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [
+    {
+      "$GMIncludedFile": "",
+      "%Name": "dialogues.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "dialogues.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "enemies.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "enemies.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "items.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "items.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "souls.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "souls.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "world.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "world.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "tracks.json",
+      "CopyToMask": -1,
+      "filePath": "datafiles",
+      "name": "tracks.json",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "01_BRUINS_Main_Theme.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "01_BRUINS_Main_Theme.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "02_A_Different_Timeline.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "02_A_Different_Timeline.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "03_The_Fallen_Child.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "03_The_Fallen_Child.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "04_Toriel_s_Memories.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "04_Toriel_s_Memories.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "05_A_Warm_Home.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "05_A_Warm_Home.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "06_Forgotten_Ruins.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "06_Forgotten_Ruins.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "07_Something_Is_Watching.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "07_Something_Is_Watching.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "08_First_Encounter.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "08_First_Encounter.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "09_Echoing_Forest.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "09_Echoing_Forest.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "10_Gentle_Monsters.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "10_Gentle_Monsters.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "11_The_Guardian.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "11_The_Guardian.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "12_Hollow_City.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "12_Hollow_City.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "13_Nobody_Remembers.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "13_Nobody_Remembers.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "14_The_Clockmaker.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "14_The_Clockmaker.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "15_Fractured_Time.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "15_Fractured_Time.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "16_Soul_Archive.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "16_Soul_Archive.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "17_Colors_of_the_Soul.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "17_Colors_of_the_Soul.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "18_Your_Other_Self.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "18_Your_Other_Self.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "19_Determination.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "19_Determination.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "20_Patience.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "20_Patience.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "21_Bravery.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "21_Bravery.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "22_Broken_Promises.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "22_Broken_Promises.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "23_Final_Timeline.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "23_Final_Timeline.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "24_The_World_Is_Empty.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "24_The_World_Is_Empty.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "25_One_Last_Goodbye.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "25_One_Last_Goodbye.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "26_The_True_Ending.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "26_The_True_Ending.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMIncludedFile": "",
+      "%Name": "27_Beyond_the_Reset.ogg",
+      "CopyToMask": -1,
+      "filePath": "datafiles/music",
+      "name": "27_Beyond_the_Reset.ogg",
+      "resourceType": "GMIncludedFile",
+      "resourceVersion": "2.0"
+    }
+  ],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2024.11.0.179"
+  },
+  "name": "BRUINS",
+  "resources": [
+    {
+      "id": {
+        "name": "scr_battle_system",
+        "path": "scripts/scr_battle_system/scr_battle_system.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_core",
+        "path": "scripts/scr_core/scr_core.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_dialogue_system",
+        "path": "scripts/scr_dialogue_system/scr_dialogue_system.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_inventory_system",
+        "path": "scripts/scr_inventory_system/scr_inventory_system.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_menus",
+        "path": "scripts/scr_menus/scr_menus.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_music_system",
+        "path": "scripts/scr_music_system/scr_music_system.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_presentation",
+        "path": "scripts/scr_presentation/scr_presentation.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_save_system",
+        "path": "scripts/scr_save_system/scr_save_system.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_world",
+        "path": "scripts/scr_world/scr_world.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_game_manager",
+        "path": "objects/obj_game_manager/obj_game_manager.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_title",
+        "path": "rooms/rm_title/rm_title.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_intro",
+        "path": "rooms/rm_intro/rm_intro.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_ruins",
+        "path": "rooms/rm_ruins/rm_ruins.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_home",
+        "path": "rooms/rm_home/rm_home.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_gate",
+        "path": "rooms/rm_gate/rm_gate.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_child",
+        "path": "sprites/spr_child/spr_child.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_mother",
+        "path": "sprites/spr_mother/spr_mother.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_enemy",
+        "path": "sprites/spr_enemy/spr_enemy.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "mus_ruins",
+        "path": "sounds/mus_ruins/mus_ruins.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "mus_encounter",
+        "path": "sounds/mus_encounter/mus_encounter.yy"
+      }
+    }
+  ],
+  "resourceType": "GMProject",
+  "resourceVersion": "2.0",
+  "RoomOrderNodes": [
+    {
+      "roomId": {
+        "name": "rm_title",
+        "path": "rooms/rm_title/rm_title.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_intro",
+        "path": "rooms/rm_intro/rm_intro.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_ruins",
+        "path": "rooms/rm_ruins/rm_ruins.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_home",
+        "path": "rooms/rm_home/rm_home.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "rm_gate",
+        "path": "rooms/rm_gate/rm_gate.yy"
+      }
+    }
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {
+      "$GMTextureGroup": "",
+      "%Name": "Default",
+      "autocrop": true,
+      "border": 2,
+      "compressFormat": "bz2",
+      "customOptions": "",
+      "directory": "",
+      "groupParent": null,
+      "isScaled": true,
+      "loadType": "default",
+      "mipsToGenerate": 0,
+      "name": "Default",
+      "resourceType": "GMTextureGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ]
+}

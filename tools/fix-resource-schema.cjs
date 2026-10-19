@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path'),{parse}=require('./yy-json.cjs'),root=path.resolve(__dirname,'..');
+for(const name of fs.readdirSync(path.join(root,'rooms'))){const p=path.join(root,'rooms',name,name+'.yy'),r=parse(fs.readFileSync(p));r.viewSettings.inheritViewSettings=false;fs.writeFileSync(p,JSON.stringify(r,null,2));}
+const p=path.join(root,'objects','obj_game_manager','obj_game_manager.yy'),o=parse(fs.readFileSync(p));delete o.managed;for(let i=0;i<o.eventList.length;i++)o.eventList[i]={'$GMEvent':'','%Name':'',...o.eventList[i],name:''};fs.writeFileSync(p,JSON.stringify(o,null,2));console.log('Room view inheritance and event discriminators repaired.');

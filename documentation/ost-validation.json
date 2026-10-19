@@ -1,0 +1,684 @@
+{
+  "date": "2026-10-19T13:04:08.662Z",
+  "status": "54 complete audio decode tests passed",
+  "durationSeconds": 5570,
+  "listeningTest": false,
+  "masteringReview": false,
+  "tracks": [
+    {
+      "index": 1,
+      "title": "BRUINS - Main Theme",
+      "scoreNotes": 1855,
+      "formats": [
+        {
+          "file": "OST/MP3/01_BRUINS_Main_Theme.mp3",
+          "duration": 180,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.7,
+          "sha256": "a8197ea3d7939272423d2d8a0544b158049f5334e3f58fb87d7557b13f47272f"
+        },
+        {
+          "file": "datafiles/music/01_BRUINS_Main_Theme.ogg",
+          "duration": 180,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.3,
+          "peakDb": -1.2,
+          "sha256": "9e4b7640aa30cddeeea6ed40154df841de7a49089a5c64266fedeeece1399de5"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "A Different Timeline",
+      "scoreNotes": 1531,
+      "formats": [
+        {
+          "file": "OST/MP3/02_A_Different_Timeline.mp3",
+          "duration": 160,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.8,
+          "peakDb": -1.7,
+          "sha256": "cc6cf57c2a533a55e64da028c9dcdd459f2642654df435aab7028f51944ea41e"
+        },
+        {
+          "file": "datafiles/music/02_A_Different_Timeline.ogg",
+          "duration": 160,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.4,
+          "peakDb": -1.1,
+          "sha256": "dbf2f265576640fff100dc750db0d9037b2060402f75ab779d70f794b1ddc25e"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "The Fallen Child",
+      "scoreNotes": 627,
+      "formats": [
+        {
+          "file": "OST/MP3/03_The_Fallen_Child.mp3",
+          "duration": 150,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.4,
+          "peakDb": -1.7,
+          "sha256": "8e3b999e47e2a77676aec4d22eea73b5e85190804e807b94cca21246e9a1d98a"
+        },
+        {
+          "file": "datafiles/music/03_The_Fallen_Child.ogg",
+          "duration": 150,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18,
+          "peakDb": -1.3,
+          "sha256": "220fbd5919b277bc4d8edff8e67ad78788172236b7500e5f6797cdcf80d736d2"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Toriel's Memories",
+      "scoreNotes": 1815,
+      "formats": [
+        {
+          "file": "OST/MP3/04_Toriel_s_Memories.mp3",
+          "duration": 220,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.8,
+          "peakDb": -1.9,
+          "sha256": "a6f2706636fdd5a048fa7377f1026fa03d4329dd9533e40ff7bcef8426a1235b"
+        },
+        {
+          "file": "datafiles/music/04_Toriel_s_Memories.ogg",
+          "duration": 220,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.4,
+          "peakDb": -1.3,
+          "sha256": "7abdaa3628c7d6b14d93aa0ee417a713c6f3e48846a2eb7617b74a5719edf69f"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "A Warm Home",
+      "scoreNotes": 1531,
+      "formats": [
+        {
+          "file": "OST/MP3/05_A_Warm_Home.mp3",
+          "duration": 170,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.2,
+          "peakDb": -1.7,
+          "sha256": "733f5da1220162c27ce9962270b07728929386f19201400159aba2dc7bc3017b"
+        },
+        {
+          "file": "datafiles/music/05_A_Warm_Home.ogg",
+          "duration": 170,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.2,
+          "sha256": "90a0d47bb69750874832331cf55f8dbcc90af38a58ed77d36a6015556237ecbe"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "Forgotten Ruins",
+      "scoreNotes": 1711,
+      "formats": [
+        {
+          "file": "OST/MP3/06_Forgotten_Ruins.mp3",
+          "duration": 180,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.1,
+          "peakDb": -1.6,
+          "sha256": "8e78c8efa53210f20fb3bb0a33eb74273f88a562b26e6f4ac1119cd84dac78d9"
+        },
+        {
+          "file": "datafiles/music/06_Forgotten_Ruins.ogg",
+          "duration": 180,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.1,
+          "sha256": "b756c62a6e340586c7ff82b3afa04198d4f06dd29597d7148b7a8338833bec8f"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "Something Is Watching",
+      "scoreNotes": 645,
+      "formats": [
+        {
+          "file": "OST/MP3/07_Something_Is_Watching.mp3",
+          "duration": 140,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.3,
+          "peakDb": -1.7,
+          "sha256": "07addef3150223146579397661a0b7eb19e7f4341c10e13d9e16261126621e8f"
+        },
+        {
+          "file": "datafiles/music/07_Something_Is_Watching.ogg",
+          "duration": 140,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.8,
+          "peakDb": -1.1,
+          "sha256": "fb4d2e59363c355ca778477649bef64e6bb3a345f33af724efd582ac88596914"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "First Encounter",
+      "scoreNotes": 2303,
+      "formats": [
+        {
+          "file": "OST/MP3/08_First_Encounter.mp3",
+          "duration": 165,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.5,
+          "peakDb": -1.7,
+          "sha256": "df29390480b7ab59b111eb19a15428199beee00c48016a0a4d5cd47d5b772999"
+        },
+        {
+          "file": "datafiles/music/08_First_Encounter.ogg",
+          "duration": 165,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.1,
+          "peakDb": -1.1,
+          "sha256": "39372a35feaedcf900009b8adcf9c57f2066773b34ffa617c43d19fb4fbe83c5"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Echoing Forest",
+      "scoreNotes": 2251,
+      "formats": [
+        {
+          "file": "OST/MP3/09_Echoing_Forest.mp3",
+          "duration": 200,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.4,
+          "peakDb": -1.6,
+          "sha256": "dc86732b813fe6283b1dfc1bfe4941ece08227e6d61314f657bb178d7dc5fca8"
+        },
+        {
+          "file": "datafiles/music/09_Echoing_Forest.ogg",
+          "duration": 200,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18,
+          "peakDb": -1.3,
+          "sha256": "4f2195c1d4f8755cd158cf8ef0244be8beb1fcd6be5cd1fb01535212414c1825"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "title": "Gentle Monsters",
+      "scoreNotes": 1815,
+      "formats": [
+        {
+          "file": "OST/MP3/10_Gentle_Monsters.mp3",
+          "duration": 155,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.6,
+          "sha256": "98abe89a66254a7fbc940e174894986636c47c99beeda736538f368ca93cdf69"
+        },
+        {
+          "file": "datafiles/music/10_Gentle_Monsters.ogg",
+          "duration": 155,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.3,
+          "peakDb": -1.1,
+          "sha256": "83e94a88164a522b2a5397796e090c52eeccd6c9a943c6652809fcd83d0ab49d"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "title": "The Guardian",
+      "scoreNotes": 2991,
+      "formats": [
+        {
+          "file": "OST/MP3/11_The_Guardian.mp3",
+          "duration": 225,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -16.7,
+          "peakDb": -1.6,
+          "sha256": "46819323ccf602c8c3dd16af184df683608e1ae18b89abb9eb4b2275fbf3cefa"
+        },
+        {
+          "file": "datafiles/music/11_The_Guardian.ogg",
+          "duration": 225,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -16.3,
+          "peakDb": -1,
+          "sha256": "344f04a1c48e951e9e073c121893b7e9374e93d90b1bfdfade73ba1eccdf25cc"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "title": "Hollow City",
+      "scoreNotes": 2335,
+      "formats": [
+        {
+          "file": "OST/MP3/12_Hollow_City.mp3",
+          "duration": 210.000499,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.9,
+          "peakDb": -1.7,
+          "sha256": "60067a0a718aa3b0f6f89b273f0eeac819f931ac65905c9ac895fdcc4da9a362"
+        },
+        {
+          "file": "datafiles/music/12_Hollow_City.ogg",
+          "duration": 210,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.5,
+          "peakDb": -1.2,
+          "sha256": "65c11237ebe133f536125a7f96b1f65cc2ce3bad35fb99235ad13eb5214173e2"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "title": "Nobody Remembers",
+      "scoreNotes": 747,
+      "formats": [
+        {
+          "file": "OST/MP3/13_Nobody_Remembers.mp3",
+          "duration": 190,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.7,
+          "sha256": "f48e2504ed27d0a338771897a8e336827050b782e92d537251f26659847f6b7e"
+        },
+        {
+          "file": "datafiles/music/13_Nobody_Remembers.ogg",
+          "duration": 190,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.3,
+          "peakDb": -1.2,
+          "sha256": "30a8dcc126b4c9c0dfa4da1d4d6d82a68a10cb5afec486cd2b46cfa2beb77c26"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "title": "The Clockmaker",
+      "scoreNotes": 4019,
+      "formats": [
+        {
+          "file": "OST/MP3/14_The_Clockmaker.mp3",
+          "duration": 260,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.2,
+          "peakDb": -1.7,
+          "sha256": "b4bbf24bcb6cde9fe341418c235904a01711702b78f0581446ac340944e35720"
+        },
+        {
+          "file": "datafiles/music/14_The_Clockmaker.ogg",
+          "duration": 260,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -16.8,
+          "peakDb": -1.2,
+          "sha256": "8b73da2613e479a90a70986b5ccc58b9e969370b6ee77da7dd733a3745c4cfdf"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "title": "Fractured Time",
+      "scoreNotes": 2399,
+      "formats": [
+        {
+          "file": "OST/MP3/15_Fractured_Time.mp3",
+          "duration": 195,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.6,
+          "peakDb": -1.6,
+          "sha256": "9d7b48a9fc1d00168741b7cb522ff5393e4f2fb540a80434086503adf8ca6ed9"
+        },
+        {
+          "file": "datafiles/music/15_Fractured_Time.ogg",
+          "duration": 195,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.1,
+          "peakDb": -1.4,
+          "sha256": "725cc5a3f77da9be98cab5898bca9c160b5188821580a393f04ca5c7d4e49aef"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "title": "Soul Archive",
+      "scoreNotes": 2211,
+      "formats": [
+        {
+          "file": "OST/MP3/16_Soul_Archive.mp3",
+          "duration": 220,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.4,
+          "peakDb": -1.6,
+          "sha256": "a625103cd342706ccb492265b81aeeca624c1baaae6c89c9727aed89771081dd"
+        },
+        {
+          "file": "datafiles/music/16_Soul_Archive.ogg",
+          "duration": 220,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.9,
+          "peakDb": -1.1,
+          "sha256": "72665b4815e8853ffebf0919d79518b7b1c876fef6c0c0b278eb7ab06fce3294"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "title": "Colors of the Soul",
+      "scoreNotes": 2459,
+      "formats": [
+        {
+          "file": "OST/MP3/17_Colors_of_the_Soul.mp3",
+          "duration": 205,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.5,
+          "peakDb": -1.7,
+          "sha256": "60867377c2c50aa234c5e3560f8edeb0758377657622049b087ca8292edc3d9e"
+        },
+        {
+          "file": "datafiles/music/17_Colors_of_the_Soul.ogg",
+          "duration": 205,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17,
+          "peakDb": -1.2,
+          "sha256": "aff2f23bdf63643025fe071806cf8bb2f58756328b56edcb50da64280d7e4565"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "title": "Your Other Self",
+      "scoreNotes": 4303,
+      "formats": [
+        {
+          "file": "OST/MP3/18_Your_Other_Self.mp3",
+          "duration": 270,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.3,
+          "peakDb": -1.6,
+          "sha256": "93d2f9e6c66a24f1e12fce0cad30fcb25dd8126ddcc8ae8d90a0b5782ac5f208"
+        },
+        {
+          "file": "datafiles/music/18_Your_Other_Self.ogg",
+          "duration": 270,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.8,
+          "peakDb": -1.2,
+          "sha256": "5ef9ac0671a51e9677a33ccebee1fc8914119ed7245e586579035f473f962aaa"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "title": "Determination",
+      "scoreNotes": 3035,
+      "formats": [
+        {
+          "file": "OST/MP3/19_Determination.mp3",
+          "duration": 210.000499,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.8,
+          "sha256": "c002685caceee2be5f8bc97fbaf6951d4d9cd1bb9dc6ca67d97e8ae3c226393d"
+        },
+        {
+          "file": "datafiles/music/19_Determination.ogg",
+          "duration": 210,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.2,
+          "peakDb": -1.1,
+          "sha256": "46b3539e1fcaa9935c287d84600e983fb3f1cdb1a10fff19e350826e3cf8e6e7"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "title": "Patience",
+      "scoreNotes": 689,
+      "formats": [
+        {
+          "file": "OST/MP3/20_Patience.mp3",
+          "duration": 175,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.1,
+          "peakDb": -1.7,
+          "sha256": "d1d33548dde8da84dcde56cd3dd969368decb852f0c609d436fd949b34b03af9"
+        },
+        {
+          "file": "datafiles/music/20_Patience.ogg",
+          "duration": 175,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.1,
+          "sha256": "ad0636d164b1aec9758b094aec94a6906fbb47a2848b6f5d38daf5dd1d753705"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "title": "Bravery",
+      "scoreNotes": 3275,
+      "formats": [
+        {
+          "file": "OST/MP3/21_Bravery.mp3",
+          "duration": 195,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.2,
+          "peakDb": -1.6,
+          "sha256": "d61f93ebd581a5ca6cfe3d4155ef6d2b118d829fc716e04a8ac7c3a3ab447ca6"
+        },
+        {
+          "file": "datafiles/music/21_Bravery.ogg",
+          "duration": 195,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.1,
+          "sha256": "232c9347f494cd00527c3a7ca2ac9a25c45525e66919c0d7d0e38509463325bc"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "title": "Broken Promises",
+      "scoreNotes": 943,
+      "formats": [
+        {
+          "file": "OST/MP3/22_Broken_Promises.mp3",
+          "duration": 220,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -19,
+          "peakDb": -1.7,
+          "sha256": "1c3be15bd07af398db4034c8609238dda01e54d1b8dd1e34ced34d6d98b4a33a"
+        },
+        {
+          "file": "datafiles/music/22_Broken_Promises.ogg",
+          "duration": 220,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.6,
+          "peakDb": -1.3,
+          "sha256": "c1bbd655e781f22c8783709b2058fb32dfbe48c552e3bab50f76fcc97f070a04"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "title": "Final Timeline",
+      "scoreNotes": 4443,
+      "formats": [
+        {
+          "file": "OST/MP3/23_Final_Timeline.mp3",
+          "duration": 290,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.5,
+          "peakDb": -1.6,
+          "sha256": "64a91e6f4b3b335f11ed7b077a6a42dd0609ad0c463bc9a31910de04c5a92123"
+        },
+        {
+          "file": "datafiles/music/23_Final_Timeline.ogg",
+          "duration": 290,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18,
+          "peakDb": -1,
+          "sha256": "5bd6364327db7c3d43715ee7ab7e126435036933db3c265e1280436d3b2db19e"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "title": "The World Is Empty",
+      "scoreNotes": 869,
+      "formats": [
+        {
+          "file": "OST/MP3/24_The_World_Is_Empty.mp3",
+          "duration": 250,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.1,
+          "peakDb": -1.7,
+          "sha256": "7ea0f0063523b1d7250c1852f678996a46b86e950d49cd4909b406d2e68befe5"
+        },
+        {
+          "file": "datafiles/music/24_The_World_Is_Empty.ogg",
+          "duration": 250,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.7,
+          "peakDb": -1.1,
+          "sha256": "4ad9323038da024139f9c6d9790a823546fb59d094bd04e2956d1d96e0026b72"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "title": "One Last Goodbye",
+      "scoreNotes": 927,
+      "formats": [
+        {
+          "file": "OST/MP3/25_One_Last_Goodbye.mp3",
+          "duration": 225,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -19,
+          "peakDb": -1.7,
+          "sha256": "37f22f33d7347bc90479819808300c7cec2a335fcb5ddd11e694cae81f0916ed"
+        },
+        {
+          "file": "datafiles/music/25_One_Last_Goodbye.ogg",
+          "duration": 225,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.5,
+          "peakDb": -1.2,
+          "sha256": "17335063c62443439817ab2fcf305a26c60ea620cb074344cdeef525ca7122a2"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "title": "The True Ending",
+      "scoreNotes": 2955,
+      "formats": [
+        {
+          "file": "OST/MP3/26_The_True_Ending.mp3",
+          "duration": 270,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -19.2,
+          "peakDb": -1.7,
+          "sha256": "2c98be62b7d0d7c264506e8b9122280c1127aee7f15e70ab0e355486ef828157"
+        },
+        {
+          "file": "datafiles/music/26_The_True_Ending.ogg",
+          "duration": 270,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -18.8,
+          "peakDb": -1.1,
+          "sha256": "05ff74e500985a69a62c87e1c2034237bc0dce7795776b157c5fb3f5c2841523"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "title": "Beyond the Reset",
+      "scoreNotes": 2459,
+      "formats": [
+        {
+          "file": "OST/MP3/27_Beyond_the_Reset.mp3",
+          "duration": 240,
+          "codec": "mp3",
+          "channels": 2,
+          "meanDb": -18.2,
+          "peakDb": -1.5,
+          "sha256": "d7e4ef6847918ac21c9dbef810f77fbefb8c62e917456a4587b08838f27331a4"
+        },
+        {
+          "file": "datafiles/music/27_Beyond_the_Reset.ogg",
+          "duration": 240,
+          "codec": "vorbis",
+          "channels": 2,
+          "meanDb": -17.8,
+          "peakDb": -1.4,
+          "sha256": "31538777fa4f326317d3c87bd86a79a6798a1b07d397ddbd76faa7a445b5dc09"
+        }
+      ]
+    }
+  ]
+}
